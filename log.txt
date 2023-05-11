@@ -1,0 +1,58 @@
+simulation start
+log:
+time est to get task = 15
+new task is inserted with time: 35 queue lengh: 1
+time est to get task = 8
+computer took task that lasts 35 secs, life: 25 at 20:10:33. waiting time: 0:00:00
+new task is inserted with time: 33 queue lengh: 1
+time est to get task = 3
+computer took task that lasts 33 secs, life: 27 at 20:10:41. waiting time: 0:00:00
+new task is inserted with time: 90 queue lengh: 1
+time est to get task = 75
+all computer cant run this task. time needed: 90
+task discarded
+computer fininshed task that lasts 35 secs, life: 25 at 20:11:09
+computer fininshed task that lasts 33 secs, life: 27 at 20:11:15
+new task is inserted with time: 45 queue lengh: 1
+time est to get task = 29
+computer took task that lasts 45 secs, life: 15 at 20:12:00. waiting time: 0:00:00
+new task is inserted with time: 16 queue lengh: 1
+time est to get task = 27
+computer took task that lasts 16 secs, life: 44 at 20:12:29. waiting time: 0:00:00
+computer fininshed task that lasts 16 secs, life: 44 at 20:12:45
+computer fininshed task that lasts 45 secs, life: 15 at 20:12:45
+new task is inserted with time: 11 queue lengh: 0
+time est to get task = 13
+computer took task that lasts 11 secs, life: 49 at 20:12:56. waiting time: 0:00:00
+computer fininshed task that lasts 11 secs, life: 49 at 20:13:07
+new task is inserted with time: 23 queue lengh: 1
+time est to get task = 25
+computer took task that lasts 23 secs, life: 37 at 20:13:09. waiting time: 0:00:00
+computer fininshed task that lasts 23 secs, life: 37 at 20:13:32
+new task is inserted with time: 33 queue lengh: 1
+time est to get task = 6
+computer took task that lasts 33 secs, life: 27 at 20:13:34. waiting time: 0:00:00
+new task is inserted with time: 34 queue lengh: 1
+time est to get task = 59
+computer took task that lasts 34 secs, life: 26 at 20:13:40. waiting time: 0:00:00
+computer fininshed task that lasts 33 secs, life: 27 at 20:14:07
+computer fininshed task that lasts 34 secs, life: 26 at 20:14:14
+new task is inserted with time: 6 queue lengh: 1
+time est to get task = 9
+computer took task that lasts 6 secs, life: 54 at 20:14:39. waiting time: 0:00:00
+computer fininshed task that lasts 6 secs, life: 54 at 20:14:45
+new task is inserted with time: 2 queue lengh: 1
+time est to get task = 11
+computer took task that lasts 2 secs, life: 58 at 20:14:48. waiting time: 0:00:00
+computer fininshed task that lasts 2 secs, life: 58 at 20:14:50
+new task is inserted with time: 58 queue lengh: 1
+computer took task that lasts 58 secs, life: 0 at 20:14:59. waiting time: 0:00:00
+
+contest finished
+
+computer fininshed task that lasts 58 secs, life: 0 at 20:15:57
+
+---------------------------- ANALYSIS ----------------------------
+
+average delay time = 0:00:00
+average queue length = 1.0

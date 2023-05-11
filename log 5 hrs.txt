@@ -1,0 +1,2054 @@
+simulation start
+log:
+time est to get task = 7
+new task is inserted with time: 12 queue lengh: 0
+time est to get task = 23
+computer took task that lasts 12 secs, life: 3588 at 10:36:51. waiting time: 0:00:00
+computer fininshed task that lasts 12 secs, life: 3588 at 10:37:03
+new task is inserted with time: 15 queue lengh: 1
+time est to get task = 30
+computer took task that lasts 15 secs, life: 3585 at 10:37:14. waiting time: 0:00:00
+computer fininshed task that lasts 15 secs, life: 3585 at 10:37:29
+new task is inserted with time: 15 queue lengh: 0
+time est to get task = 30
+computer took task that lasts 15 secs, life: 3585 at 10:37:44. waiting time: 0:00:00
+computer fininshed task that lasts 15 secs, life: 3585 at 10:37:59
+new task is inserted with time: 54 queue lengh: 0
+time est to get task = 19
+computer took task that lasts 54 secs, life: 3546 at 10:38:14. waiting time: 0:00:00
+new task is inserted with time: 37 queue lengh: 1
+time est to get task = 14
+computer took task that lasts 37 secs, life: 3563 at 10:38:33. waiting time: 0:00:00
+new task is inserted with time: 10 queue lengh: 1
+time est to get task = 56
+computer took task that lasts 10 secs, life: 3590 at 10:38:47. waiting time: 0:00:00
+computer fininshed task that lasts 10 secs, life: 3590 at 10:38:57
+computer fininshed task that lasts 54 secs, life: 3546 at 10:39:08
+computer fininshed task that lasts 37 secs, life: 3563 at 10:39:10
+new task is inserted with time: 23 queue lengh: 1
+time est to get task = 11
+computer took task that lasts 23 secs, life: 3577 at 10:39:43. waiting time: 0:00:00
+new task is inserted with time: 49 queue lengh: 1
+time est to get task = 17
+computer took task that lasts 49 secs, life: 3551 at 10:39:54. waiting time: 0:00:00
+computer fininshed task that lasts 23 secs, life: 3577 at 10:40:06
+new task is inserted with time: 66 queue lengh: 0
+time est to get task = 70
+computer took task that lasts 66 secs, life: 3534 at 10:40:11. waiting time: 0:00:00
+computer fininshed task that lasts 49 secs, life: 3551 at 10:40:43
+computer fininshed task that lasts 66 secs, life: 3534 at 10:41:17
+new task is inserted with time: 4 queue lengh: 1
+time est to get task = 64
+computer took task that lasts 4 secs, life: 3596 at 10:41:21. waiting time: 0:00:00
+computer fininshed task that lasts 4 secs, life: 3596 at 10:41:25
+new task is inserted with time: 14 queue lengh: 1
+time est to get task = 5
+computer took task that lasts 14 secs, life: 3574 at 10:42:25. waiting time: 0:00:00
+new task is inserted with time: 7 queue lengh: 1
+time est to get task = 45
+computer took task that lasts 7 secs, life: 3578 at 10:42:30. waiting time: 0:00:00
+computer fininshed task that lasts 7 secs, life: 3578 at 10:42:37
+computer fininshed task that lasts 14 secs, life: 3574 at 10:42:39
+new task is inserted with time: 6 queue lengh: 1
+time est to get task = 36
+computer took task that lasts 6 secs, life: 3579 at 10:43:15. waiting time: 0:00:00
+computer fininshed task that lasts 6 secs, life: 3579 at 10:43:21
+new task is inserted with time: 3 queue lengh: 1
+time est to get task = 21
+computer took task that lasts 3 secs, life: 3587 at 10:43:51. waiting time: 0:00:00
+computer fininshed task that lasts 3 secs, life: 3587 at 10:43:54
+new task is inserted with time: 40 queue lengh: 1
+time est to get task = 116
+computer took task that lasts 40 secs, life: 3506 at 10:44:12. waiting time: 0:00:00
+computer fininshed task that lasts 40 secs, life: 3506 at 10:44:52
+new task is inserted with time: 2 queue lengh: 1
+time est to get task = 9
+computer took task that lasts 2 secs, life: 3561 at 10:46:08. waiting time: 0:00:00
+computer fininshed task that lasts 2 secs, life: 3561 at 10:46:10
+new task is inserted with time: 13 queue lengh: 1
+time est to get task = 65
+computer took task that lasts 13 secs, life: 3564 at 10:46:17. waiting time: 0:00:00
+computer fininshed task that lasts 13 secs, life: 3564 at 10:46:30
+new task is inserted with time: 87 queue lengh: 1
+time est to get task = 13
+computer took task that lasts 87 secs, life: 3464 at 10:47:22. waiting time: 0:00:00
+new task is inserted with time: 1 queue lengh: 1
+time est to get task = 11
+computer took task that lasts 1 secs, life: 3533 at 10:47:35. waiting time: 0:00:00
+computer fininshed task that lasts 1 secs, life: 3533 at 10:47:36
+new task is inserted with time: 133 queue lengh: 1
+time est to get task = 41
+computer took task that lasts 133 secs, life: 3463 at 10:47:46. waiting time: 0:00:00
+new task is inserted with time: 51 queue lengh: 1
+time est to get task = 56
+computer took task that lasts 51 secs, life: 3527 at 10:48:27. waiting time: 0:00:00
+computer fininshed task that lasts 87 secs, life: 3464 at 10:48:49
+computer fininshed task that lasts 51 secs, life: 3527 at 10:49:18
+new task is inserted with time: 2 queue lengh: 0
+time est to get task = 67
+computer took task that lasts 2 secs, life: 3572 at 10:49:23. waiting time: 0:00:00
+computer fininshed task that lasts 2 secs, life: 3572 at 10:49:25
+computer fininshed task that lasts 133 secs, life: 3463 at 10:49:59
+new task is inserted with time: 52 queue lengh: 1
+time est to get task = 33
+computer took task that lasts 52 secs, life: 3527 at 10:50:30. waiting time: 0:00:00
+new task is inserted with time: 89 queue lengh: 0
+time est to get task = 33
+computer took task that lasts 89 secs, life: 3498 at 10:51:03. waiting time: 0:00:00
+computer fininshed task that lasts 52 secs, life: 3527 at 10:51:22
+new task is inserted with time: 32 queue lengh: 1
+time est to get task = 61
+computer took task that lasts 32 secs, life: 3474 at 10:51:36. waiting time: 0:00:00
+computer fininshed task that lasts 32 secs, life: 3474 at 10:52:08
+computer fininshed task that lasts 89 secs, life: 3498 at 10:52:32
+new task is inserted with time: 111 queue lengh: 1
+time est to get task = 88
+computer took task that lasts 111 secs, life: 3450 at 10:52:37. waiting time: 0:00:00
+new task is inserted with time: 34 queue lengh: 1
+time est to get task = 23
+computer took task that lasts 34 secs, life: 3530 at 10:54:05. waiting time: 0:00:00
+computer fininshed task that lasts 111 secs, life: 3450 at 10:54:28
+new task is inserted with time: 8 queue lengh: 0
+computer took task that lasts 8 secs, life: 3525 at 10:54:28. waiting time: 0:00:00
+time est to get task = 16
+computer fininshed task that lasts 8 secs, life: 3525 at 10:54:36
+computer fininshed task that lasts 34 secs, life: 3530 at 10:54:39
+new task is inserted with time: 10 queue lengh: 1
+time est to get task = 5
+computer took task that lasts 10 secs, life: 3454 at 10:54:44. waiting time: 0:00:00
+new task is inserted with time: 6 queue lengh: 1
+time est to get task = 14
+computer took task that lasts 6 secs, life: 3521 at 10:54:49. waiting time: 0:00:00
+computer fininshed task that lasts 10 secs, life: 3454 at 10:54:54
+computer fininshed task that lasts 6 secs, life: 3521 at 10:54:55
+new task is inserted with time: 51 queue lengh: 1
+time est to get task = 106
+computer took task that lasts 51 secs, life: 3521 at 10:55:03. waiting time: 0:00:00
+computer fininshed task that lasts 51 secs, life: 3521 at 10:55:54
+new task is inserted with time: 16 queue lengh: 1
+time est to get task = 24
+computer took task that lasts 16 secs, life: 3447 at 10:56:49. waiting time: 0:00:00
+computer fininshed task that lasts 16 secs, life: 3447 at 10:57:05
+new task is inserted with time: 96 queue lengh: 1
+time est to get task = 20
+computer took task that lasts 96 secs, life: 3431 at 10:57:13. waiting time: 0:00:00
+new task is inserted with time: 18 queue lengh: 1
+time est to get task = 61
+computer took task that lasts 18 secs, life: 3456 at 10:57:33. waiting time: 0:00:00
+computer fininshed task that lasts 18 secs, life: 3456 at 10:57:51
+new task is inserted with time: 23 queue lengh: 1
+time est to get task = 30
+computer took task that lasts 23 secs, life: 3475 at 10:58:34. waiting time: 0:00:00
+computer fininshed task that lasts 96 secs, life: 3431 at 10:58:49
+computer fininshed task that lasts 23 secs, life: 3475 at 10:58:57
+new task is inserted with time: 142 queue lengh: 1
+time est to get task = 21
+computer took task that lasts 142 secs, life: 3308 at 10:59:04. waiting time: 0:00:00
+new task is inserted with time: 15 queue lengh: 1
+time est to get task = 19
+computer took task that lasts 15 secs, life: 3510 at 10:59:25. waiting time: 0:00:00
+computer fininshed task that lasts 15 secs, life: 3510 at 10:59:40
+new task is inserted with time: 22 queue lengh: 1
+time est to get task = 88
+computer took task that lasts 22 secs, life: 3508 at 10:59:44. waiting time: 0:00:00
+computer fininshed task that lasts 22 secs, life: 3508 at 11:00:06
+new task is inserted with time: 26 queue lengh: 1
+time est to get task = 29
+computer took task that lasts 26 secs, life: 3428 at 11:01:12. waiting time: 0:00:00
+computer fininshed task that lasts 142 secs, life: 3308 at 11:01:26
+computer fininshed task that lasts 26 secs, life: 3428 at 11:01:38
+new task is inserted with time: 21 queue lengh: 1
+time est to get task = 155
+computer took task that lasts 21 secs, life: 3500 at 11:01:41. waiting time: 0:00:00
+computer fininshed task that lasts 21 secs, life: 3500 at 11:02:02
+new task is inserted with time: 37 queue lengh: 1
+time est to get task = 72
+computer took task that lasts 37 secs, life: 3484 at 11:04:16. waiting time: 0:00:00
+computer fininshed task that lasts 37 secs, life: 3484 at 11:04:53
+new task is inserted with time: 3 queue lengh: 1
+time est to get task = 108
+computer took task that lasts 3 secs, life: 3444 at 11:05:28. waiting time: 0:00:00
+computer fininshed task that lasts 3 secs, life: 3444 at 11:05:31
+new task is inserted with time: 28 queue lengh: 1
+time est to get task = 23
+computer took task that lasts 28 secs, life: 3428 at 11:07:16. waiting time: 0:00:00
+new task is inserted with time: 25 queue lengh: 1
+time est to get task = 9
+computer took task that lasts 25 secs, life: 3406 at 11:07:39. waiting time: 0:00:00
+computer fininshed task that lasts 28 secs, life: 3428 at 11:07:44
+new task is inserted with time: 5 queue lengh: 1
+time est to get task = 6
+computer took task that lasts 5 secs, life: 3470 at 11:07:48. waiting time: 0:00:00
+computer fininshed task that lasts 5 secs, life: 3470 at 11:07:53
+new task is inserted with time: 2 queue lengh: 1
+time est to get task = 7
+computer took task that lasts 2 secs, life: 3508 at 11:07:54. waiting time: 0:00:00
+computer fininshed task that lasts 2 secs, life: 3508 at 11:07:56
+new task is inserted with time: 4 queue lengh: 1
+time est to get task = 27
+computer took task that lasts 4 secs, life: 3504 at 11:08:01. waiting time: 0:00:00
+computer fininshed task that lasts 25 secs, life: 3406 at 11:08:04
+computer fininshed task that lasts 4 secs, life: 3504 at 11:08:05
+new task is inserted with time: 17 queue lengh: 1
+time est to get task = 71
+computer took task that lasts 17 secs, life: 3291 at 11:08:28. waiting time: 0:00:00
+computer fininshed task that lasts 17 secs, life: 3291 at 11:08:45
+new task is inserted with time: 44 queue lengh: 1
+time est to get task = 61
+computer took task that lasts 44 secs, life: 3384 at 11:09:39. waiting time: 0:00:00
+computer fininshed task that lasts 44 secs, life: 3384 at 11:10:23
+new task is inserted with time: 12 queue lengh: 0
+time est to get task = 6
+computer took task that lasts 12 secs, life: 3488 at 11:10:40. waiting time: 0:00:00
+new task is inserted with time: 30 queue lengh: 1
+time est to get task = 34
+computer took task that lasts 30 secs, life: 3454 at 11:10:46. waiting time: 0:00:00
+computer fininshed task that lasts 12 secs, life: 3488 at 11:10:52
+computer fininshed task that lasts 30 secs, life: 3454 at 11:11:16
+new task is inserted with time: 34 queue lengh: 1
+time est to get task = 24
+computer took task that lasts 34 secs, life: 3410 at 11:11:20. waiting time: 0:00:00
+new task is inserted with time: 79 queue lengh: 1
+time est to get task = 1
+computer took task that lasts 79 secs, life: 3349 at 11:11:44. waiting time: 0:00:00
+new task is inserted with time: 64 queue lengh: 1
+time est to get task = 16
+computer took task that lasts 64 secs, life: 3406 at 11:11:45. waiting time: 0:00:00
+computer fininshed task that lasts 34 secs, life: 3410 at 11:11:54
+new task is inserted with time: 95 queue lengh: 1
+time est to get task = 16
+computer took task that lasts 95 secs, life: 3413 at 11:12:01. waiting time: 0:00:00
+new task is inserted with time: 63 queue lengh: 1
+time est to get task = 4
+computer took task that lasts 63 secs, life: 3343 at 11:12:17. waiting time: 0:00:00
+new task is inserted with time: 31 queue lengh: 1
+time est to get task = 62
+computer took task that lasts 31 secs, life: 3473 at 11:12:21. waiting time: 0:00:00
+computer fininshed task that lasts 64 secs, life: 3406 at 11:12:49
+computer fininshed task that lasts 31 secs, life: 3473 at 11:12:52
+computer fininshed task that lasts 79 secs, life: 3349 at 11:13:03
+computer fininshed task that lasts 63 secs, life: 3343 at 11:13:20
+new task is inserted with time: 13 queue lengh: 1
+time est to get task = 95
+computer took task that lasts 13 secs, life: 3278 at 11:13:23. waiting time: 0:00:00
+computer fininshed task that lasts 95 secs, life: 3413 at 11:13:36
+computer fininshed task that lasts 13 secs, life: 3278 at 11:13:36
+new task is inserted with time: 15 queue lengh: 1
+time est to get task = 48
+computer took task that lasts 15 secs, life: 3369 at 11:14:58. waiting time: 0:00:00
+computer fininshed task that lasts 15 secs, life: 3369 at 11:15:13
+new task is inserted with time: 19 queue lengh: 1
+time est to get task = 3
+computer took task that lasts 19 secs, life: 3469 at 11:15:46. waiting time: 0:00:00
+new task is inserted with time: 115 queue lengh: 1
+time est to get task = 66
+computer took task that lasts 115 secs, life: 3339 at 11:15:49. waiting time: 0:00:00
+computer fininshed task that lasts 19 secs, life: 3469 at 11:16:05
+new task is inserted with time: 28 queue lengh: 1
+time est to get task = 3
+computer took task that lasts 28 secs, life: 3382 at 11:16:55. waiting time: 0:00:00
+new task is inserted with time: 16 queue lengh: 1
+time est to get task = 68
+computer took task that lasts 16 secs, life: 3390 at 11:16:58. waiting time: 0:00:00
+computer fininshed task that lasts 16 secs, life: 3390 at 11:17:14
+computer fininshed task that lasts 28 secs, life: 3382 at 11:17:23
+computer fininshed task that lasts 115 secs, life: 3339 at 11:17:44
+new task is inserted with time: 22 queue lengh: 1
+time est to get task = 7
+computer took task that lasts 22 secs, life: 3451 at 11:18:06. waiting time: 0:00:00
+new task is inserted with time: 84 queue lengh: 0
+time est to get task = 29
+computer took task that lasts 84 secs, life: 3265 at 11:18:13. waiting time: 0:00:00
+computer fininshed task that lasts 22 secs, life: 3451 at 11:18:28
+new task is inserted with time: 20 queue lengh: 1
+time est to get task = 19
+computer took task that lasts 20 secs, life: 3323 at 11:18:42. waiting time: 0:00:00
+new task is inserted with time: 39 queue lengh: 1
+time est to get task = 14
+computer took task that lasts 39 secs, life: 3374 at 11:19:01. waiting time: 0:00:00
+computer fininshed task that lasts 20 secs, life: 3323 at 11:19:02
+new task is inserted with time: 88 queue lengh: 1
+time est to get task = 151
+computer took task that lasts 88 secs, life: 3190 at 11:19:15. waiting time: 0:00:00
+computer fininshed task that lasts 84 secs, life: 3265 at 11:19:37
+computer fininshed task that lasts 39 secs, life: 3374 at 11:19:40
+computer fininshed task that lasts 88 secs, life: 3190 at 11:20:43
+new task is inserted with time: 16 queue lengh: 0
+time est to get task = 32
+computer took task that lasts 16 secs, life: 3353 at 11:21:46. waiting time: 0:00:00
+computer fininshed task that lasts 16 secs, life: 3353 at 11:22:02
+new task is inserted with time: 30 queue lengh: 1
+time est to get task = 11
+computer took task that lasts 30 secs, life: 3439 at 11:22:18. waiting time: 0:00:00
+new task is inserted with time: 14 queue lengh: 1
+time est to get task = 21
+computer took task that lasts 14 secs, life: 3376 at 11:22:29. waiting time: 0:00:00
+computer fininshed task that lasts 14 secs, life: 3376 at 11:22:43
+computer fininshed task that lasts 30 secs, life: 3439 at 11:22:48
+new task is inserted with time: 29 queue lengh: 1
+time est to get task = 40
+computer took task that lasts 29 secs, life: 3353 at 11:22:50. waiting time: 0:00:00
+computer fininshed task that lasts 29 secs, life: 3353 at 11:23:19
+new task is inserted with time: 6 queue lengh: 1
+time est to get task = 19
+computer took task that lasts 6 secs, life: 3333 at 11:23:30. waiting time: 0:00:00
+computer fininshed task that lasts 6 secs, life: 3333 at 11:23:36
+new task is inserted with time: 16 queue lengh: 1
+time est to get task = 3
+computer took task that lasts 16 secs, life: 3435 at 11:23:49. waiting time: 0:00:00
+new task is inserted with time: 31 queue lengh: 1
+time est to get task = 72
+computer took task that lasts 31 secs, life: 3292 at 11:23:52. waiting time: 0:00:00
+computer fininshed task that lasts 16 secs, life: 3435 at 11:24:05
+computer fininshed task that lasts 31 secs, life: 3292 at 11:24:23
+new task is inserted with time: 14 queue lengh: 1
+time est to get task = 16
+computer took task that lasts 14 secs, life: 3251 at 11:25:04. waiting time: 0:00:00
+computer fininshed task that lasts 14 secs, life: 3251 at 11:25:18
+new task is inserted with time: 101 queue lengh: 1
+time est to get task = 41
+computer took task that lasts 101 secs, life: 3273 at 11:25:20. waiting time: 0:00:00
+new task is inserted with time: 218 queue lengh: 1
+time est to get task = 73
+computer took task that lasts 218 secs, life: 2972 at 11:26:01. waiting time: 0:00:00
+computer fininshed task that lasts 101 secs, life: 3273 at 11:27:01
+new task is inserted with time: 39 queue lengh: 1
+time est to get task = 45
+computer took task that lasts 39 secs, life: 3314 at 11:27:14. waiting time: 0:00:00
+computer fininshed task that lasts 39 secs, life: 3314 at 11:27:53
+new task is inserted with time: 12 queue lengh: 1
+time est to get task = 39
+computer took task that lasts 12 secs, life: 3364 at 11:27:59. waiting time: 0:00:00
+computer fininshed task that lasts 12 secs, life: 3364 at 11:28:11
+new task is inserted with time: 47 queue lengh: 1
+time est to get task = 50
+computer took task that lasts 47 secs, life: 3392 at 11:28:38. waiting time: 0:00:00
+computer fininshed task that lasts 47 secs, life: 3392 at 11:29:25
+new task is inserted with time: 104 queue lengh: 1
+time est to get task = 21
+computer took task that lasts 104 secs, life: 3249 at 11:29:28. waiting time: 0:00:00
+computer fininshed task that lasts 218 secs, life: 2972 at 11:29:39
+new task is inserted with time: 78 queue lengh: 1
+time est to get task = 5
+computer took task that lasts 78 secs, life: 3255 at 11:29:49. waiting time: 0:00:00
+new task is inserted with time: 7 queue lengh: 1
+time est to get task = 7
+computer took task that lasts 7 secs, life: 3428 at 11:29:54. waiting time: 0:00:00
+new task is inserted with time: 2 queue lengh: 1
+time est to get task = 29
+computer fininshed task that lasts 7 secs, life: 3428 at 11:30:01
+computer took task that lasts 2 secs, life: 3290 at 11:30:01. waiting time: 0:00:00
+computer fininshed task that lasts 2 secs, life: 3290 at 11:30:03
+new task is inserted with time: 6 queue lengh: 1
+time est to get task = 93
+computer took task that lasts 6 secs, life: 3245 at 11:30:30. waiting time: 0:00:00
+computer fininshed task that lasts 6 secs, life: 3245 at 11:30:36
+computer fininshed task that lasts 78 secs, life: 3255 at 11:31:07
+computer fininshed task that lasts 104 secs, life: 3249 at 11:31:12
+new task is inserted with time: 66 queue lengh: 1
+computer took task that lasts 66 secs, life: 3207 at 11:32:03. waiting time: 0:00:00
+time est to get task = 100
+computer fininshed task that lasts 66 secs, life: 3207 at 11:33:09
+new task is inserted with time: 9 queue lengh: 1
+time est to get task = 125
+computer took task that lasts 9 secs, life: 3305 at 11:33:43. waiting time: 0:00:00
+computer fininshed task that lasts 9 secs, life: 3305 at 11:33:52
+new task is inserted with time: 6 queue lengh: 1
+time est to get task = 25
+computer took task that lasts 6 secs, life: 3358 at 11:35:48. waiting time: 0:00:00
+computer fininshed task that lasts 6 secs, life: 3358 at 11:35:54
+new task is inserted with time: 140 queue lengh: 1
+time est to get task = 32
+computer took task that lasts 140 secs, life: 3252 at 11:36:13. waiting time: 0:00:00
+new task is inserted with time: 24 queue lengh: 1
+time est to get task = 9
+computer took task that lasts 24 secs, life: 2948 at 11:36:45. waiting time: 0:00:00
+new task is inserted with time: 14 queue lengh: 1
+time est to get task = 145
+computer took task that lasts 14 secs, life: 3414 at 11:36:54. waiting time: 0:00:00
+computer fininshed task that lasts 14 secs, life: 3414 at 11:37:08
+computer fininshed task that lasts 24 secs, life: 2948 at 11:37:09
+computer fininshed task that lasts 140 secs, life: 3252 at 11:38:33
+new task is inserted with time: 25 queue lengh: 1
+time est to get task = 91
+computer took task that lasts 25 secs, life: 3265 at 11:39:19. waiting time: 0:00:00
+computer fininshed task that lasts 25 secs, life: 3265 at 11:39:44
+new task is inserted with time: 39 queue lengh: 1
+time est to get task = 48
+computer took task that lasts 39 secs, life: 3206 at 11:40:50. waiting time: 0:00:00
+computer fininshed task that lasts 39 secs, life: 3206 at 11:41:29
+new task is inserted with time: 49 queue lengh: 1
+time est to get task = 53
+computer took task that lasts 49 secs, life: 3206 at 11:41:38. waiting time: 0:00:00
+computer fininshed task that lasts 49 secs, life: 3206 at 11:42:27
+new task is inserted with time: 127 queue lengh: 1
+time est to get task = 11
+computer took task that lasts 127 secs, life: 3122 at 11:42:31. waiting time: 0:00:00
+new task is inserted with time: 49 queue lengh: 1
+time est to get task = 20
+computer took task that lasts 49 secs, life: 3158 at 11:42:42. waiting time: 0:00:00
+new task is inserted with time: 1 queue lengh: 1
+time est to get task = 30
+computer took task that lasts 1 secs, life: 3304 at 11:43:02. waiting time: 0:00:00
+computer fininshed task that lasts 1 secs, life: 3304 at 11:43:03
+computer fininshed task that lasts 49 secs, life: 3158 at 11:43:31
+new task is inserted with time: 29 queue lengh: 1
+time est to get task = 10
+computer took task that lasts 29 secs, life: 3329 at 11:43:32. waiting time: 0:00:00
+new task is inserted with time: 9 queue lengh: 1
+time est to get task = 70
+computer took task that lasts 9 secs, life: 3405 at 11:43:42. waiting time: 0:00:00
+computer fininshed task that lasts 9 secs, life: 3405 at 11:43:51
+computer fininshed task that lasts 29 secs, life: 3329 at 11:44:01
+computer fininshed task that lasts 127 secs, life: 3122 at 11:44:38
+new task is inserted with time: 49 queue lengh: 1
+time est to get task = 198
+computer took task that lasts 49 secs, life: 2899 at 11:44:52. waiting time: 0:00:00
+computer fininshed task that lasts 49 secs, life: 2899 at 11:45:41
+new task is inserted with time: 3 queue lengh: 1
+time est to get task = 42
+computer took task that lasts 3 secs, life: 3249 at 11:48:10. waiting time: 0:00:00
+computer fininshed task that lasts 3 secs, life: 3249 at 11:48:13
+new task is inserted with time: 27 queue lengh: 1
+time est to get task = 66
+computer took task that lasts 27 secs, life: 3238 at 11:48:52. waiting time: 0:00:00
+computer fininshed task that lasts 27 secs, life: 3238 at 11:49:19
+new task is inserted with time: 80 queue lengh: 0
+time est to get task = 49
+computer took task that lasts 80 secs, life: 3126 at 11:49:58. waiting time: 0:00:00
+new task is inserted with time: 4 queue lengh: 1
+time est to get task = 30
+computer took task that lasts 4 secs, life: 3202 at 11:50:47. waiting time: 0:00:00
+computer fininshed task that lasts 4 secs, life: 3202 at 11:50:51
+new task is inserted with time: 29 queue lengh: 1
+time est to get task = 1
+computer took task that lasts 29 secs, life: 3275 at 11:51:17. waiting time: 0:00:00
+computer fininshed task that lasts 80 secs, life: 3126 at 11:51:18
+new task is inserted with time: 13 queue lengh: 0
+time est to get task = 32
+computer took task that lasts 13 secs, life: 3145 at 11:51:18. waiting time: 0:00:00
+computer fininshed task that lasts 13 secs, life: 3145 at 11:51:31
+computer fininshed task that lasts 29 secs, life: 3275 at 11:51:46
+new task is inserted with time: 20 queue lengh: 1
+time est to get task = 17
+computer took task that lasts 20 secs, life: 3385 at 11:51:50. waiting time: 0:00:00
+new task is inserted with time: 88 queue lengh: 1
+time est to get task = 3
+computer took task that lasts 88 secs, life: 3241 at 11:52:07. waiting time: 0:00:00
+computer fininshed task that lasts 20 secs, life: 3385 at 11:52:10
+new task is inserted with time: 18 queue lengh: 1
+time est to get task = 21
+computer took task that lasts 18 secs, life: 3104 at 11:52:10. waiting time: 0:00:00
+computer fininshed task that lasts 18 secs, life: 3104 at 11:52:28
+new task is inserted with time: 59 queue lengh: 1
+time est to get task = 6
+computer took task that lasts 59 secs, life: 2840 at 11:52:31. waiting time: 0:00:00
+new task is inserted with time: 33 queue lengh: 1
+time est to get task = 8
+computer took task that lasts 33 secs, life: 3216 at 11:52:37. waiting time: 0:00:00
+new task is inserted with time: 25 queue lengh: 1
+time est to get task = 11
+computer took task that lasts 25 secs, life: 3213 at 11:52:45. waiting time: 0:00:00
+new task is inserted with time: 59 queue lengh: 1
+computer took task that lasts 59 secs, life: 3143 at 11:52:56. waiting time: 0:00:00
+time est to get task = 7
+new task is inserted with time: 3 queue lengh: 1
+time est to get task = 13
+computer took task that lasts 3 secs, life: 3123 at 11:53:03. waiting time: 0:00:00
+computer fininshed task that lasts 3 secs, life: 3123 at 11:53:06
+computer fininshed task that lasts 33 secs, life: 3216 at 11:53:10
+computer fininshed task that lasts 25 secs, life: 3213 at 11:53:10
+new task is inserted with time: 22 queue lengh: 1
+time est to get task = 8
+computer took task that lasts 22 secs, life: 3123 at 11:53:16. waiting time: 0:00:00
+new task is inserted with time: 8 queue lengh: 1
+time est to get task = 67
+computer took task that lasts 8 secs, life: 3267 at 11:53:24. waiting time: 0:00:00
+computer fininshed task that lasts 59 secs, life: 2840 at 11:53:30
+computer fininshed task that lasts 8 secs, life: 3267 at 11:53:32
+computer fininshed task that lasts 88 secs, life: 3241 at 11:53:35
+computer fininshed task that lasts 22 secs, life: 3123 at 11:53:38
+computer fininshed task that lasts 59 secs, life: 3143 at 11:53:55
+new task is inserted with time: 7 queue lengh: 1
+time est to get task = 4
+computer took task that lasts 7 secs, life: 3378 at 11:54:31. waiting time: 0:00:00
+new task is inserted with time: 20 queue lengh: 1
+time est to get task = 29
+computer took task that lasts 20 secs, life: 3084 at 11:54:35. waiting time: 0:00:00
+computer fininshed task that lasts 7 secs, life: 3378 at 11:54:38
+computer fininshed task that lasts 20 secs, life: 3084 at 11:54:55
+new task is inserted with time: 37 queue lengh: 1
+time est to get task = 71
+computer took task that lasts 37 secs, life: 3086 at 11:55:04. waiting time: 0:00:00
+computer fininshed task that lasts 37 secs, life: 3086 at 11:55:41
+new task is inserted with time: 47 queue lengh: 1
+time est to get task = 1
+computer took task that lasts 47 secs, life: 3169 at 11:56:15. waiting time: 0:00:00
+new task is inserted with time: 36 queue lengh: 1
+time est to get task = 14
+computer took task that lasts 36 secs, life: 3177 at 11:56:16. waiting time: 0:00:00
+new task is inserted with time: 58 queue lengh: 1
+time est to get task = 44
+computer took task that lasts 58 secs, life: 2782 at 11:56:30. waiting time: 0:00:00
+computer fininshed task that lasts 36 secs, life: 3177 at 11:56:52
+computer fininshed task that lasts 47 secs, life: 3169 at 11:57:02
+new task is inserted with time: 27 queue lengh: 1
+time est to get task = 9
+computer took task that lasts 27 secs, life: 3240 at 11:57:14. waiting time: 0:00:00
+new task is inserted with time: 62 queue lengh: 1
+time est to get task = 53
+computer took task that lasts 62 secs, life: 3179 at 11:57:23. waiting time: 0:00:00
+computer fininshed task that lasts 58 secs, life: 2782 at 11:57:28
+computer fininshed task that lasts 27 secs, life: 3240 at 11:57:41
+new task is inserted with time: 13 queue lengh: 1
+time est to get task = 20
+computer took task that lasts 13 secs, life: 3110 at 11:58:16. waiting time: 0:00:00
+computer fininshed task that lasts 62 secs, life: 3179 at 11:58:25
+computer fininshed task that lasts 13 secs, life: 3110 at 11:58:29
+new task is inserted with time: 7 queue lengh: 1
+time est to get task = 11
+computer took task that lasts 7 secs, life: 3136 at 11:58:36. waiting time: 0:00:00
+computer fininshed task that lasts 7 secs, life: 3136 at 11:58:43
+new task is inserted with time: 36 queue lengh: 1
+time est to get task = 22
+computer took task that lasts 36 secs, life: 3342 at 11:58:47. waiting time: 0:00:00
+new task is inserted with time: 22 queue lengh: 1
+time est to get task = 12
+computer took task that lasts 22 secs, life: 3062 at 11:59:09. waiting time: 0:00:00
+new task is inserted with time: 48 queue lengh: 1
+time est to get task = 3
+computer took task that lasts 48 secs, life: 3038 at 11:59:21. waiting time: 0:00:00
+computer fininshed task that lasts 36 secs, life: 3342 at 11:59:23
+new task is inserted with time: 19 queue lengh: 1
+time est to get task = 49
+computer took task that lasts 19 secs, life: 3158 at 11:59:24. waiting time: 0:00:00
+computer fininshed task that lasts 22 secs, life: 3062 at 11:59:31
+computer fininshed task that lasts 19 secs, life: 3158 at 11:59:44
+computer fininshed task that lasts 48 secs, life: 3038 at 12:00:09
+new task is inserted with time: 33 queue lengh: 0
+time est to get task = 38
+computer took task that lasts 33 secs, life: 3136 at 12:00:13. waiting time: 0:00:00
+computer fininshed task that lasts 33 secs, life: 3136 at 12:00:47
+new task is inserted with time: 69 queue lengh: 1
+time est to get task = 18
+computer took task that lasts 69 secs, life: 2713 at 12:00:52. waiting time: 0:00:00
+new task is inserted with time: 34 queue lengh: 1
+time est to get task = 12
+computer took task that lasts 34 secs, life: 3206 at 12:01:10. waiting time: 0:00:00
+new task is inserted with time: 15 queue lengh: 1
+time est to get task = 61
+computer took task that lasts 15 secs, life: 3164 at 12:01:22. waiting time: 0:00:00
+computer fininshed task that lasts 15 secs, life: 3164 at 12:01:37
+computer fininshed task that lasts 34 secs, life: 3206 at 12:01:44
+computer fininshed task that lasts 69 secs, life: 2713 at 12:02:01
+new task is inserted with time: 35 queue lengh: 1
+time est to get task = 49
+computer took task that lasts 35 secs, life: 3075 at 12:02:23. waiting time: 0:00:00
+computer fininshed task that lasts 35 secs, life: 3075 at 12:02:58
+new task is inserted with time: 29 queue lengh: 1
+time est to get task = 38
+computer took task that lasts 29 secs, life: 3107 at 12:03:12. waiting time: 0:00:00
+computer fininshed task that lasts 29 secs, life: 3107 at 12:03:41
+new task is inserted with time: 15 queue lengh: 1
+time est to get task = 9
+computer took task that lasts 15 secs, life: 3327 at 12:03:50. waiting time: 0:00:00
+new task is inserted with time: 55 queue lengh: 1
+time est to get task = 12
+computer took task that lasts 55 secs, life: 3007 at 12:03:59. waiting time: 0:00:00
+computer fininshed task that lasts 15 secs, life: 3327 at 12:04:05
+new task is inserted with time: 36 queue lengh: 1
+time est to get task = 45
+computer took task that lasts 36 secs, life: 3122 at 12:04:11. waiting time: 0:00:00
+computer fininshed task that lasts 36 secs, life: 3122 at 12:04:47
+computer fininshed task that lasts 55 secs, life: 3007 at 12:04:54
+new task is inserted with time: 50 queue lengh: 1
+time est to get task = 37
+computer took task that lasts 50 secs, life: 2988 at 12:04:56. waiting time: 0:00:00
+new task is inserted with time: 209 queue lengh: 1
+time est to get task = 5
+computer took task that lasts 209 secs, life: 2927 at 12:05:33. waiting time: 0:00:00
+new task is inserted with time: 20 queue lengh: 1
+time est to get task = 71
+computer took task that lasts 20 secs, life: 3144 at 12:05:38. waiting time: 0:00:00
+computer fininshed task that lasts 50 secs, life: 2988 at 12:05:46
+computer fininshed task that lasts 20 secs, life: 3144 at 12:05:58
+new task is inserted with time: 5 queue lengh: 1
+time est to get task = 31
+computer took task that lasts 5 secs, life: 3201 at 12:06:49. waiting time: 0:00:00
+computer fininshed task that lasts 5 secs, life: 3201 at 12:06:54
+new task is inserted with time: 14 queue lengh: 1
+time est to get task = 23
+computer took task that lasts 14 secs, life: 2699 at 12:07:20. waiting time: 0:00:00
+computer fininshed task that lasts 14 secs, life: 2699 at 12:07:34
+new task is inserted with time: 35 queue lengh: 1
+time est to get task = 7
+computer took task that lasts 35 secs, life: 3040 at 12:07:43. waiting time: 0:00:00
+new task is inserted with time: 75 queue lengh: 1
+time est to get task = 35
+computer took task that lasts 75 secs, life: 3032 at 12:07:50. waiting time: 0:00:00
+computer fininshed task that lasts 35 secs, life: 3040 at 12:08:18
+new task is inserted with time: 169 queue lengh: 1
+time est to get task = 27
+computer took task that lasts 169 secs, life: 3158 at 12:08:25. waiting time: 0:00:00
+new task is inserted with time: 80 queue lengh: 1
+time est to get task = 2
+computer took task that lasts 80 secs, life: 3042 at 12:08:52. waiting time: 0:00:00
+new task is inserted with time: 100 queue lengh: 1
+time est to get task = 20
+computer took task that lasts 100 secs, life: 2907 at 12:08:54. waiting time: 0:00:00
+computer fininshed task that lasts 209 secs, life: 2927 at 12:09:02
+computer fininshed task that lasts 75 secs, life: 3032 at 12:09:05
+new task is inserted with time: 160 queue lengh: 1
+time est to get task = 49
+computer took task that lasts 160 secs, life: 2828 at 12:09:14. waiting time: 0:00:00
+new task is inserted with time: 20 queue lengh: 0
+time est to get task = 43
+computer took task that lasts 20 secs, life: 3124 at 12:10:03. waiting time: 0:00:00
+computer fininshed task that lasts 80 secs, life: 3042 at 12:10:12
+computer fininshed task that lasts 20 secs, life: 3124 at 12:10:23
+computer fininshed task that lasts 100 secs, life: 2907 at 12:10:34
+new task is inserted with time: 7 queue lengh: 1
+time est to get task = 10
+computer took task that lasts 7 secs, life: 3194 at 12:10:46. waiting time: 0:00:00
+computer fininshed task that lasts 7 secs, life: 3194 at 12:10:53
+new task is inserted with time: 120 queue lengh: 1
+time est to get task = 11
+computer took task that lasts 120 secs, life: 2579 at 12:10:56. waiting time: 0:00:00
+new task is inserted with time: 17 queue lengh: 1
+time est to get task = 4
+computer took task that lasts 17 secs, life: 3023 at 12:11:07. waiting time: 0:00:00
+new task is inserted with time: 37 queue lengh: 0
+time est to get task = 15
+computer took task that lasts 37 secs, life: 2890 at 12:11:11. waiting time: 0:00:00
+computer fininshed task that lasts 169 secs, life: 3158 at 12:11:14
+computer fininshed task that lasts 17 secs, life: 3023 at 12:11:24
+new task is inserted with time: 110 queue lengh: 1
+time est to get task = 23
+computer took task that lasts 110 secs, life: 2922 at 12:11:26. waiting time: 0:00:00
+computer fininshed task that lasts 37 secs, life: 2890 at 12:11:48
+new task is inserted with time: 33 queue lengh: 1
+time est to get task = 26
+computer took task that lasts 33 secs, life: 3009 at 12:11:49. waiting time: 0:00:00
+computer fininshed task that lasts 160 secs, life: 2828 at 12:11:54
+new task is inserted with time: 109 queue lengh: 1
+time est to get task = 1
+computer took task that lasts 109 secs, life: 3015 at 12:12:15. waiting time: 0:00:00
+new task is inserted with time: 3 queue lengh: 1
+time est to get task = 27
+computer took task that lasts 3 secs, life: 2904 at 12:12:16. waiting time: 0:00:00
+computer fininshed task that lasts 3 secs, life: 2904 at 12:12:19
+computer fininshed task that lasts 33 secs, life: 3009 at 12:12:22
+new task is inserted with time: 19 queue lengh: 1
+time est to get task = 19
+computer took task that lasts 19 secs, life: 3175 at 12:12:43. waiting time: 0:00:00
+computer fininshed task that lasts 120 secs, life: 2579 at 12:12:56
+computer fininshed task that lasts 19 secs, life: 3175 at 12:13:02
+new task is inserted with time: 42 queue lengh: 1
+time est to get task = 9
+computer took task that lasts 42 secs, life: 3116 at 12:13:02. waiting time: 0:00:00
+new task is inserted with time: 26 queue lengh: 1
+time est to get task = 9
+computer took task that lasts 26 secs, life: 2997 at 12:13:11. waiting time: 0:00:00
+computer fininshed task that lasts 110 secs, life: 2922 at 12:13:16
+new task is inserted with time: 38 queue lengh: 1
+time est to get task = 44
+computer took task that lasts 38 secs, life: 2852 at 12:13:20. waiting time: 0:00:00
+computer fininshed task that lasts 26 secs, life: 2997 at 12:13:37
+computer fininshed task that lasts 42 secs, life: 3116 at 12:13:44
+computer fininshed task that lasts 38 secs, life: 2852 at 12:13:58
+computer fininshed task that lasts 109 secs, life: 3015 at 12:14:04
+new task is inserted with time: 16 queue lengh: 1
+time est to get task = 4
+computer took task that lasts 16 secs, life: 2812 at 12:14:04. waiting time: 0:00:00
+new task is inserted with time: 18 queue lengh: 1
+time est to get task = 21
+computer took task that lasts 18 secs, life: 2886 at 12:14:08. waiting time: 0:00:00
+computer fininshed task that lasts 16 secs, life: 2812 at 12:14:20
+computer fininshed task that lasts 18 secs, life: 2886 at 12:14:26
+new task is inserted with time: 53 queue lengh: 1
+time est to get task = 36
+computer took task that lasts 53 secs, life: 2956 at 12:14:29. waiting time: 0:00:00
+new task is inserted with time: 25 queue lengh: 1
+time est to get task = 6
+computer took task that lasts 25 secs, life: 2554 at 12:15:05. waiting time: 0:00:00
+new task is inserted with time: 50 queue lengh: 1
+time est to get task = 18
+computer took task that lasts 50 secs, life: 3125 at 12:15:11. waiting time: 0:00:00
+computer fininshed task that lasts 53 secs, life: 2956 at 12:15:22
+new task is inserted with time: 99 queue lengh: 1
+time est to get task = 4
+computer took task that lasts 99 secs, life: 2823 at 12:15:29. waiting time: 0:00:00
+computer fininshed task that lasts 25 secs, life: 2554 at 12:15:30
+new task is inserted with time: 23 queue lengh: 1
+time est to get task = 77
+computer took task that lasts 23 secs, life: 2974 at 12:15:33. waiting time: 0:00:00
+computer fininshed task that lasts 23 secs, life: 2974 at 12:15:56
+computer fininshed task that lasts 50 secs, life: 3125 at 12:16:01
+new task is inserted with time: 51 queue lengh: 1
+time est to get task = 21
+computer took task that lasts 51 secs, life: 3065 at 12:16:50. waiting time: 0:00:00
+computer fininshed task that lasts 99 secs, life: 2823 at 12:17:08
+new task is inserted with time: 13 queue lengh: 1
+time est to get task = 53
+computer took task that lasts 13 secs, life: 2839 at 12:17:11. waiting time: 0:00:00
+computer fininshed task that lasts 13 secs, life: 2839 at 12:17:24
+computer fininshed task that lasts 51 secs, life: 3065 at 12:17:41
+new task is inserted with time: 19 queue lengh: 1
+time est to get task = 25
+computer took task that lasts 19 secs, life: 2996 at 12:18:04. waiting time: 0:00:00
+computer fininshed task that lasts 19 secs, life: 2996 at 12:18:23
+new task is inserted with time: 25 queue lengh: 1
+time est to get task = 72
+computer took task that lasts 25 secs, life: 2787 at 12:18:29. waiting time: 0:00:00
+computer fininshed task that lasts 25 secs, life: 2787 at 12:18:54
+new task is inserted with time: 7 queue lengh: 1
+time est to get task = 125
+computer took task that lasts 7 secs, life: 2879 at 12:19:41. waiting time: 0:00:00
+computer fininshed task that lasts 7 secs, life: 2879 at 12:19:48
+new task is inserted with time: 47 queue lengh: 1
+time est to get task = 11
+computer took task that lasts 47 secs, life: 2909 at 12:21:46. waiting time: 0:00:00
+new task is inserted with time: 18 queue lengh: 1
+time est to get task = 16
+computer took task that lasts 18 secs, life: 2536 at 12:21:57. waiting time: 0:00:00
+new task is inserted with time: 46 queue lengh: 1
+time est to get task = 87
+computer took task that lasts 46 secs, life: 2928 at 12:22:13. waiting time: 0:00:00
+computer fininshed task that lasts 18 secs, life: 2536 at 12:22:15
+computer fininshed task that lasts 47 secs, life: 2909 at 12:22:33
+computer fininshed task that lasts 46 secs, life: 2928 at 12:22:59
+new task is inserted with time: 24 queue lengh: 1
+time est to get task = 3
+computer took task that lasts 24 secs, life: 3101 at 12:23:40. waiting time: 0:00:00
+new task is inserted with time: 66 queue lengh: 1
+time est to get task = 27
+computer took task that lasts 66 secs, life: 2757 at 12:23:43. waiting time: 0:00:00
+computer fininshed task that lasts 24 secs, life: 3101 at 12:24:04
+new task is inserted with time: 39 queue lengh: 1
+time est to get task = 30
+computer took task that lasts 39 secs, life: 2800 at 12:24:10. waiting time: 0:00:00
+new task is inserted with time: 10 queue lengh: 0
+time est to get task = 12
+computer took task that lasts 10 secs, life: 3055 at 12:24:40. waiting time: 0:00:00
+computer fininshed task that lasts 66 secs, life: 2757 at 12:24:49
+computer fininshed task that lasts 39 secs, life: 2800 at 12:24:49
+computer fininshed task that lasts 10 secs, life: 3055 at 12:24:50
+new task is inserted with time: 7 queue lengh: 1
+time est to get task = 120
+computer took task that lasts 7 secs, life: 2989 at 12:24:52. waiting time: 0:00:00
+computer fininshed task that lasts 7 secs, life: 2989 at 12:24:59
+new task is inserted with time: 38 queue lengh: 1
+time est to get task = 13
+computer took task that lasts 38 secs, life: 2749 at 12:26:52. waiting time: 0:00:00
+new task is inserted with time: 63 queue lengh: 0
+time est to get task = 71
+computer took task that lasts 63 secs, life: 2816 at 12:27:05. waiting time: 0:00:00
+computer fininshed task that lasts 38 secs, life: 2749 at 12:27:30
+computer fininshed task that lasts 63 secs, life: 2816 at 12:28:08
+new task is inserted with time: 30 queue lengh: 1
+time est to get task = 39
+computer took task that lasts 30 secs, life: 2506 at 12:28:16. waiting time: 0:00:00
+computer fininshed task that lasts 30 secs, life: 2506 at 12:28:46
+new task is inserted with time: 103 queue lengh: 1
+time est to get task = 13
+computer took task that lasts 103 secs, life: 2806 at 12:28:55. waiting time: 0:00:00
+new task is inserted with time: 91 queue lengh: 1
+time est to get task = 90
+computer took task that lasts 91 secs, life: 2837 at 12:29:08. waiting time: 0:00:00
+new task is inserted with time: 11 queue lengh: 1
+time est to get task = 59
+computer fininshed task that lasts 103 secs, life: 2806 at 12:30:38
+computer took task that lasts 11 secs, life: 3090 at 12:30:38. waiting time: 0:00:00
+computer fininshed task that lasts 91 secs, life: 2837 at 12:30:39
+computer fininshed task that lasts 11 secs, life: 3090 at 12:30:49
+new task is inserted with time: 26 queue lengh: 1
+time est to get task = 32
+computer took task that lasts 26 secs, life: 2731 at 12:31:37. waiting time: 0:00:00
+computer fininshed task that lasts 26 secs, life: 2731 at 12:32:03
+new task is inserted with time: 63 queue lengh: 1
+time est to get task = 128
+computer took task that lasts 63 secs, life: 2737 at 12:32:09. waiting time: 0:00:00
+computer fininshed task that lasts 63 secs, life: 2737 at 12:33:12
+new task is inserted with time: 69 queue lengh: 1
+time est to get task = 45
+computer took task that lasts 69 secs, life: 2986 at 12:34:17. waiting time: 0:00:00
+new task is inserted with time: 23 queue lengh: 1
+time est to get task = 19
+computer took task that lasts 23 secs, life: 2966 at 12:35:02. waiting time: 0:00:00
+new task is inserted with time: 20 queue lengh: 1
+time est to get task = 27
+computer took task that lasts 20 secs, life: 2729 at 12:35:21. waiting time: 0:00:00
+computer fininshed task that lasts 23 secs, life: 2966 at 12:35:25
+computer fininshed task that lasts 69 secs, life: 2986 at 12:35:26
+computer fininshed task that lasts 20 secs, life: 2729 at 12:35:41
+new task is inserted with time: 35 queue lengh: 1
+time est to get task = 61
+computer took task that lasts 35 secs, life: 2781 at 12:35:48. waiting time: 0:00:00
+computer fininshed task that lasts 35 secs, life: 2781 at 12:36:23
+new task is inserted with time: 5 queue lengh: 1
+time est to get task = 41
+computer took task that lasts 5 secs, life: 2501 at 12:36:49. waiting time: 0:00:00
+computer fininshed task that lasts 5 secs, life: 2501 at 12:36:54
+new task is inserted with time: 22 queue lengh: 1
+time est to get task = 14
+computer took task that lasts 22 secs, life: 2784 at 12:37:30. waiting time: 0:00:00
+new task is inserted with time: 16 queue lengh: 1
+time est to get task = 19
+computer took task that lasts 16 secs, life: 2821 at 12:37:44. waiting time: 0:00:00
+computer fininshed task that lasts 22 secs, life: 2784 at 12:37:52
+computer fininshed task that lasts 16 secs, life: 2821 at 12:38:00
+new task is inserted with time: 104 queue lengh: 1
+time est to get task = 14
+computer took task that lasts 104 secs, life: 2986 at 12:38:03. waiting time: 0:00:00
+new task is inserted with time: 50 queue lengh: 1
+time est to get task = 2
+computer took task that lasts 50 secs, life: 2681 at 12:38:17. waiting time: 0:00:00
+new task is inserted with time: 33 queue lengh: 1
+time est to get task = 75
+computer took task that lasts 33 secs, life: 2704 at 12:38:19. waiting time: 0:00:00
+computer fininshed task that lasts 33 secs, life: 2704 at 12:38:52
+computer fininshed task that lasts 50 secs, life: 2681 at 12:39:07
+new task is inserted with time: 6 queue lengh: 1
+time est to get task = 50
+computer took task that lasts 6 secs, life: 2960 at 12:39:34. waiting time: 0:00:00
+computer fininshed task that lasts 6 secs, life: 2960 at 12:39:40
+computer fininshed task that lasts 104 secs, life: 2986 at 12:39:47
+new task is inserted with time: 38 queue lengh: 1
+time est to get task = 46
+computer took task that lasts 38 secs, life: 2948 at 12:40:24. waiting time: 0:00:00
+computer fininshed task that lasts 38 secs, life: 2948 at 12:41:02
+new task is inserted with time: 142 queue lengh: 1
+time est to get task = 24
+computer took task that lasts 142 secs, life: 2587 at 12:41:10. waiting time: 0:00:00
+new task is inserted with time: 2 queue lengh: 0
+time est to get task = 26
+computer took task that lasts 2 secs, life: 2779 at 12:41:34. waiting time: 0:00:00
+computer fininshed task that lasts 2 secs, life: 2779 at 12:41:36
+new task is inserted with time: 66 queue lengh: 1
+time est to get task = 11
+computer took task that lasts 66 secs, life: 2435 at 12:42:00. waiting time: 0:00:00
+new task is inserted with time: 18 queue lengh: 1
+time est to get task = 51
+computer took task that lasts 18 secs, life: 2766 at 12:42:11. waiting time: 0:00:00
+computer fininshed task that lasts 18 secs, life: 2766 at 12:42:29
+new task is inserted with time: 24 queue lengh: 1
+time est to get task = 37
+computer took task that lasts 24 secs, life: 2797 at 12:43:02. waiting time: 0:00:00
+computer fininshed task that lasts 66 secs, life: 2435 at 12:43:06
+computer fininshed task that lasts 24 secs, life: 2797 at 12:43:26
+computer fininshed task that lasts 142 secs, life: 2587 at 12:43:32
+new task is inserted with time: 65 queue lengh: 0
+time est to get task = 112
+computer took task that lasts 65 secs, life: 2639 at 12:43:39. waiting time: -1 day,
+computer fininshed task that lasts 65 secs, life: 2639 at 12:44:44
+new task is inserted with time: 5 queue lengh: 1
+time est to get task = 15
+computer took task that lasts 5 secs, life: 2676 at 12:45:31. waiting time: 0:00:00
+computer fininshed task that lasts 5 secs, life: 2676 at 12:45:36
+new task is inserted with time: 54 queue lengh: 1
+time est to get task = 129
+computer took task that lasts 54 secs, life: 2906 at 12:45:46. waiting time: 0:00:00
+computer fininshed task that lasts 54 secs, life: 2906 at 12:46:40
+new task is inserted with time: 59 queue lengh: 1
+time est to get task = 22
+computer took task that lasts 59 secs, life: 2927 at 12:47:55. waiting time: 0:00:00
+new task is inserted with time: 14 queue lengh: 1
+time est to get task = 132
+computer took task that lasts 14 secs, life: 2934 at 12:48:17. waiting time: 0:00:00
+computer fininshed task that lasts 14 secs, life: 2934 at 12:48:31
+computer fininshed task that lasts 59 secs, life: 2927 at 12:48:54
+new task is inserted with time: 24 queue lengh: 1
+time est to get task = 62
+computer took task that lasts 24 secs, life: 2755 at 12:50:29. waiting time: 0:00:00
+computer fininshed task that lasts 24 secs, life: 2755 at 12:50:53
+new task is inserted with time: 29 queue lengh: 1
+time est to get task = 66
+computer took task that lasts 29 secs, life: 2737 at 12:51:31. waiting time: 0:00:00
+computer fininshed task that lasts 29 secs, life: 2737 at 12:52:00
+new task is inserted with time: 46 queue lengh: 1
+time est to get task = 18
+computer took task that lasts 46 secs, life: 2389 at 12:52:37. waiting time: 0:00:00
+new task is inserted with time: 21 queue lengh: 1
+time est to get task = 49
+computer took task that lasts 21 secs, life: 2776 at 12:52:55. waiting time: 0:00:00
+computer fininshed task that lasts 21 secs, life: 2776 at 12:53:16
+computer fininshed task that lasts 46 secs, life: 2389 at 12:53:23
+new task is inserted with time: 14 queue lengh: 1
+time est to get task = 34
+computer took task that lasts 14 secs, life: 2573 at 12:53:44. waiting time: 0:00:00
+computer fininshed task that lasts 14 secs, life: 2573 at 12:53:58
+new task is inserted with time: 45 queue lengh: 1
+time est to get task = 49
+computer took task that lasts 45 secs, life: 2594 at 12:54:18. waiting time: 0:00:00
+computer fininshed task that lasts 45 secs, life: 2594 at 12:55:03
+new task is inserted with time: 40 queue lengh: 1
+time est to get task = 13
+computer took task that lasts 40 secs, life: 2636 at 12:55:07. waiting time: 0:00:00
+new task is inserted with time: 4 queue lengh: 1
+time est to get task = 38
+computer took task that lasts 4 secs, life: 2902 at 12:55:20. waiting time: 0:00:00
+computer fininshed task that lasts 4 secs, life: 2902 at 12:55:24
+computer fininshed task that lasts 40 secs, life: 2636 at 12:55:47
+new task is inserted with time: 65 queue lengh: 1
+time est to get task = 38
+computer took task that lasts 65 secs, life: 2869 at 12:55:58. waiting time: 0:00:00
+new task is inserted with time: 11 queue lengh: 1
+time est to get task = 1
+computer took task that lasts 11 secs, life: 2916 at 12:56:36. waiting time: 0:00:00
+new task is inserted with time: 51 queue lengh: 1
+time est to get task = 7
+computer took task that lasts 51 secs, life: 2704 at 12:56:37. waiting time: 0:00:00
+new task is inserted with time: 61 queue lengh: 1
+time est to get task = 12
+computer took task that lasts 61 secs, life: 2676 at 12:56:44. waiting time: 0:00:00
+computer fininshed task that lasts 11 secs, life: 2916 at 12:56:47
+new task is inserted with time: 36 queue lengh: 1
+time est to get task = 30
+computer took task that lasts 36 secs, life: 2740 at 12:56:56. waiting time: 0:00:00
+computer fininshed task that lasts 65 secs, life: 2869 at 12:57:03
+new task is inserted with time: 125 queue lengh: 1
+time est to get task = 46
+computer took task that lasts 125 secs, life: 2264 at 12:57:26. waiting time: 0:00:00
+computer fininshed task that lasts 51 secs, life: 2704 at 12:57:28
+computer fininshed task that lasts 36 secs, life: 2740 at 12:57:32
+computer fininshed task that lasts 61 secs, life: 2676 at 12:57:45
+new task is inserted with time: 12 queue lengh: 1
+time est to get task = 23
+computer took task that lasts 12 secs, life: 2561 at 12:58:12. waiting time: 0:00:00
+computer fininshed task that lasts 12 secs, life: 2561 at 12:58:24
+new task is inserted with time: 80 queue lengh: 1
+time est to get task = 17
+computer took task that lasts 80 secs, life: 2514 at 12:58:35. waiting time: 0:00:00
+new task is inserted with time: 62 queue lengh: 1
+time est to get task = 16
+computer took task that lasts 62 secs, life: 2840 at 12:58:52. waiting time: 0:00:00
+new task is inserted with time: 67 queue lengh: 1
+time est to get task = 3
+computer took task that lasts 67 secs, life: 2569 at 12:59:08. waiting time: 0:00:00
+new task is inserted with time: 56 queue lengh: 1
+time est to get task = 134
+computer took task that lasts 56 secs, life: 2860 at 12:59:11. waiting time: 0:00:00
+computer fininshed task that lasts 125 secs, life: 2264 at 12:59:31
+computer fininshed task that lasts 62 secs, life: 2840 at 12:59:54
+computer fininshed task that lasts 80 secs, life: 2514 at 12:59:55
+computer fininshed task that lasts 56 secs, life: 2860 at 13:00:07
+computer fininshed task that lasts 67 secs, life: 2569 at 13:00:15
+new task is inserted with time: 94 queue lengh: 1
+time est to get task = 21
+computer took task that lasts 94 secs, life: 2775 at 13:01:25. waiting time: 0:00:00
+new task is inserted with time: 11 queue lengh: 1
+time est to get task = 3
+computer took task that lasts 11 secs, life: 2693 at 13:01:46. waiting time: 0:00:00
+new task is inserted with time: 5 queue lengh: 0
+time est to get task = 60
+computer took task that lasts 5 secs, life: 2735 at 13:01:49. waiting time: 0:00:00
+computer fininshed task that lasts 5 secs, life: 2735 at 13:01:54
+computer fininshed task that lasts 11 secs, life: 2693 at 13:01:57
+new task is inserted with time: 36 queue lengh: 1
+time est to get task = 21
+computer took task that lasts 36 secs, life: 2640 at 13:02:49. waiting time: 0:00:00
+computer fininshed task that lasts 94 secs, life: 2775 at 13:02:59
+new task is inserted with time: 69 queue lengh: 1
+time est to get task = 24
+computer took task that lasts 69 secs, life: 2492 at 13:03:10. waiting time: 0:00:00
+computer fininshed task that lasts 36 secs, life: 2640 at 13:03:25
+new task is inserted with time: 111 queue lengh: 1
+time est to get task = 2
+computer took task that lasts 111 secs, life: 2153 at 13:03:34. waiting time: 0:00:00
+new task is inserted with time: 7 queue lengh: 1
+time est to get task = 10
+computer took task that lasts 7 secs, life: 2833 at 13:03:36. waiting time: 0:00:00
+computer fininshed task that lasts 7 secs, life: 2833 at 13:03:43
+new task is inserted with time: 16 queue lengh: 1
+time est to get task = 23
+computer took task that lasts 16 secs, life: 2498 at 13:03:46. waiting time: 0:00:00
+computer fininshed task that lasts 16 secs, life: 2498 at 13:04:02
+new task is inserted with time: 10 queue lengh: 1
+time est to get task = 8
+computer took task that lasts 10 secs, life: 2850 at 13:04:09. waiting time: 0:00:00
+new task is inserted with time: 13 queue lengh: 1
+time est to get task = 54
+computer took task that lasts 13 secs, life: 2556 at 13:04:17. waiting time: 0:00:00
+computer fininshed task that lasts 69 secs, life: 2492 at 13:04:19
+computer fininshed task that lasts 10 secs, life: 2850 at 13:04:19
+computer fininshed task that lasts 13 secs, life: 2556 at 13:04:30
+new task is inserted with time: 42 queue lengh: 1
+time est to get task = 52
+computer took task that lasts 42 secs, life: 2693 at 13:05:11. waiting time: 0:00:00
+computer fininshed task that lasts 111 secs, life: 2153 at 13:05:25
+computer fininshed task that lasts 42 secs, life: 2693 at 13:05:53
+new task is inserted with time: 22 queue lengh: 1
+time est to get task = 19
+computer took task that lasts 22 secs, life: 2671 at 13:06:03. waiting time: 0:00:00
+new task is inserted with time: 21 queue lengh: 1
+time est to get task = 12
+computer took task that lasts 21 secs, life: 2754 at 13:06:22. waiting time: 0:00:00
+computer fininshed task that lasts 22 secs, life: 2671 at 13:06:25
+new task is inserted with time: 130 queue lengh: 1
+time est to get task = 13
+computer took task that lasts 130 secs, life: 2510 at 13:06:34. waiting time: 0:00:00
+computer fininshed task that lasts 21 secs, life: 2754 at 13:06:43
+new task is inserted with time: 37 queue lengh: 1
+time est to get task = 17
+computer took task that lasts 37 secs, life: 2796 at 13:06:47. waiting time: 0:00:00
+new task is inserted with time: 107 queue lengh: 1
+time est to get task = 43
+computer took task that lasts 107 secs, life: 2391 at 13:07:04. waiting time: 0:00:00
+computer fininshed task that lasts 37 secs, life: 2796 at 13:07:24
+new task is inserted with time: 204 queue lengh: 1
+time est to get task = 26
+computer took task that lasts 204 secs, life: 2288 at 13:07:47. waiting time: 0:00:00
+new task is inserted with time: 36 queue lengh: 1
+time est to get task = 6
+computer took task that lasts 36 secs, life: 2814 at 13:08:13. waiting time: 0:00:00
+new task is inserted with time: 65 queue lengh: 1
+time est to get task = 75
+computer took task that lasts 65 secs, life: 2491 at 13:08:19. waiting time: 0:00:00
+computer fininshed task that lasts 130 secs, life: 2510 at 13:08:44
+computer fininshed task that lasts 36 secs, life: 2814 at 13:08:49
+computer fininshed task that lasts 107 secs, life: 2391 at 13:08:51
+computer fininshed task that lasts 65 secs, life: 2491 at 13:09:24
+new task is inserted with time: 14 queue lengh: 1
+time est to get task = 4
+computer took task that lasts 14 secs, life: 2139 at 13:09:34. waiting time: 0:00:00
+new task is inserted with time: 25 queue lengh: 1
+time est to get task = 31
+computer took task that lasts 25 secs, life: 2668 at 13:09:38. waiting time: 0:00:00
+computer fininshed task that lasts 14 secs, life: 2139 at 13:09:48
+computer fininshed task that lasts 25 secs, life: 2668 at 13:10:03
+new task is inserted with time: 35 queue lengh: 1
+time est to get task = 38
+computer took task that lasts 35 secs, life: 2636 at 13:10:09. waiting time: 0:00:00
+computer fininshed task that lasts 35 secs, life: 2636 at 13:10:44
+new task is inserted with time: 162 queue lengh: 1
+time est to get task = 45
+computer took task that lasts 162 secs, life: 2592 at 13:10:47. waiting time: 0:00:00
+computer fininshed task that lasts 204 secs, life: 2288 at 13:11:11
+new task is inserted with time: 32 queue lengh: 1
+time est to get task = 20
+computer took task that lasts 32 secs, life: 2764 at 13:11:32. waiting time: 0:00:00
+new task is inserted with time: 25 queue lengh: 1
+time est to get task = 20
+computer took task that lasts 25 secs, life: 2485 at 13:11:52. waiting time: 0:00:00
+computer fininshed task that lasts 32 secs, life: 2764 at 13:12:04
+new task is inserted with time: 131 queue lengh: 1
+time est to get task = 89
+computer took task that lasts 131 secs, life: 2683 at 13:12:12. waiting time: 0:00:00
+computer fininshed task that lasts 25 secs, life: 2485 at 13:12:17
+computer fininshed task that lasts 162 secs, life: 2592 at 13:13:29
+new task is inserted with time: 51 queue lengh: 1
+time est to get task = 51
+computer took task that lasts 51 secs, life: 2340 at 13:13:41. waiting time: 0:00:00
+computer fininshed task that lasts 131 secs, life: 2683 at 13:14:23
+computer fininshed task that lasts 51 secs, life: 2340 at 13:14:32
+new task is inserted with time: 52 queue lengh: 1
+time est to get task = 48
+computer took task that lasts 52 secs, life: 2439 at 13:14:32. waiting time: 0:00:00
+new task is inserted with time: 45 queue lengh: 0
+time est to get task = 47
+computer took task that lasts 45 secs, life: 2094 at 13:15:20. waiting time: 0:00:00
+computer fininshed task that lasts 52 secs, life: 2439 at 13:15:24
+computer fininshed task that lasts 45 secs, life: 2094 at 13:16:05
+new task is inserted with time: 8 queue lengh: 1
+time est to get task = 17
+computer took task that lasts 8 secs, life: 2660 at 13:16:07. waiting time: 0:00:00
+computer fininshed task that lasts 8 secs, life: 2660 at 13:16:15
+new task is inserted with time: 20 queue lengh: 1
+time est to get task = 50
+computer took task that lasts 20 secs, life: 2616 at 13:16:24. waiting time: 0:00:00
+computer fininshed task that lasts 20 secs, life: 2616 at 13:16:44
+new task is inserted with time: 17 queue lengh: 1
+time est to get task = 158
+computer took task that lasts 17 secs, life: 2271 at 13:17:14. waiting time: 0:00:00
+computer fininshed task that lasts 17 secs, life: 2271 at 13:17:31
+new task is inserted with time: 5 queue lengh: 1
+time est to get task = 7
+computer took task that lasts 5 secs, life: 2759 at 13:19:52. waiting time: 0:00:00
+computer fininshed task that lasts 5 secs, life: 2759 at 13:19:57
+new task is inserted with time: 26 queue lengh: 1
+time est to get task = 12
+computer took task that lasts 26 secs, life: 2459 at 13:19:59. waiting time: 0:00:00
+new task is inserted with time: 26 queue lengh: 1
+time est to get task = 20
+computer took task that lasts 26 secs, life: 2566 at 13:20:11. waiting time: 0:00:00
+computer fininshed task that lasts 26 secs, life: 2459 at 13:20:25
+new task is inserted with time: 3 queue lengh: 1
+time est to get task = 21
+computer took task that lasts 3 secs, life: 2680 at 13:20:31. waiting time: 0:00:00
+computer fininshed task that lasts 3 secs, life: 2680 at 13:20:34
+computer fininshed task that lasts 26 secs, life: 2566 at 13:20:37
+new task is inserted with time: 133 queue lengh: 1
+time est to get task = 14
+computer took task that lasts 133 secs, life: 2207 at 13:20:52. waiting time: 0:00:00
+new task is inserted with time: 9 queue lengh: 1
+time est to get task = 35
+computer took task that lasts 9 secs, life: 2430 at 13:21:06. waiting time: 0:00:00
+computer fininshed task that lasts 9 secs, life: 2430 at 13:21:15
+new task is inserted with time: 31 queue lengh: 1
+time est to get task = 47
+computer took task that lasts 31 secs, life: 2063 at 13:21:41. waiting time: 0:00:00
+computer fininshed task that lasts 31 secs, life: 2063 at 13:22:12
+new task is inserted with time: 10 queue lengh: 1
+time est to get task = 52
+computer took task that lasts 10 secs, life: 2650 at 13:22:28. waiting time: 0:00:00
+computer fininshed task that lasts 10 secs, life: 2650 at 13:22:38
+computer fininshed task that lasts 133 secs, life: 2207 at 13:23:05
+new task is inserted with time: 9 queue lengh: 1
+time est to get task = 22
+computer took task that lasts 9 secs, life: 2607 at 13:23:20. waiting time: 0:00:00
+computer fininshed task that lasts 9 secs, life: 2607 at 13:23:29
+new task is inserted with time: 27 queue lengh: 1
+time est to get task = 138
+computer took task that lasts 27 secs, life: 2244 at 13:23:42. waiting time: 0:00:00
+computer fininshed task that lasts 27 secs, life: 2244 at 13:24:09
+new task is inserted with time: 25 queue lengh: 1
+time est to get task = 80
+computer took task that lasts 25 secs, life: 2734 at 13:26:00. waiting time: 0:00:00
+computer fininshed task that lasts 25 secs, life: 2734 at 13:26:25
+new task is inserted with time: 2 queue lengh: 1
+time est to get task = 24
+computer took task that lasts 2 secs, life: 2457 at 13:27:20. waiting time: 0:00:00
+computer fininshed task that lasts 2 secs, life: 2457 at 13:27:22
+new task is inserted with time: 61 queue lengh: 1
+time est to get task = 24
+computer took task that lasts 61 secs, life: 2619 at 13:27:44. waiting time: 0:00:00
+new task is inserted with time: 44 queue lengh: 1
+time est to get task = 26
+computer took task that lasts 44 secs, life: 2522 at 13:28:08. waiting time: 0:00:00
+new task is inserted with time: 8 queue lengh: 1
+time est to get task = 6
+computer took task that lasts 8 secs, life: 2422 at 13:28:34. waiting time: 0:00:00
+new task is inserted with time: 5 queue lengh: 1
+time est to get task = 48
+computer took task that lasts 5 secs, life: 2058 at 13:28:40. waiting time: 0:00:00
+computer fininshed task that lasts 8 secs, life: 2422 at 13:28:42
+computer fininshed task that lasts 61 secs, life: 2619 at 13:28:45
+computer fininshed task that lasts 5 secs, life: 2058 at 13:28:45
+computer fininshed task that lasts 44 secs, life: 2522 at 13:28:52
+new task is inserted with time: 33 queue lengh: 1
+time est to get task = 6
+computer took task that lasts 33 secs, life: 2617 at 13:29:28. waiting time: 0:00:00
+new task is inserted with time: 13 queue lengh: 1
+time est to get task = 27
+computer took task that lasts 13 secs, life: 2194 at 13:29:34. waiting time: 0:00:00
+computer fininshed task that lasts 13 secs, life: 2194 at 13:29:47
+computer fininshed task that lasts 33 secs, life: 2617 at 13:30:01
+new task is inserted with time: 22 queue lengh: 1
+time est to get task = 57
+computer took task that lasts 22 secs, life: 2585 at 13:30:01. waiting time: 0:00:00
+computer fininshed task that lasts 22 secs, life: 2585 at 13:30:23
+new task is inserted with time: 19 queue lengh: 1
+time est to get task = 138
+computer took task that lasts 19 secs, life: 2225 at 13:30:58. waiting time: 0:00:00
+computer fininshed task that lasts 19 secs, life: 2225 at 13:31:17
+new task is inserted with time: 10 queue lengh: 1
+time est to get task = 1
+computer took task that lasts 10 secs, life: 2724 at 13:33:16. waiting time: 0:00:00
+new task is inserted with time: 24 queue lengh: 1
+time est to get task = 15
+computer took task that lasts 24 secs, life: 2433 at 13:33:17. waiting time: 0:00:00
+computer fininshed task that lasts 10 secs, life: 2724 at 13:33:26
+new task is inserted with time: 23 queue lengh: 1
+time est to get task = 62
+computer took task that lasts 23 secs, life: 2399 at 13:33:32. waiting time: 0:00:00
+computer fininshed task that lasts 24 secs, life: 2433 at 13:33:41
+computer fininshed task that lasts 23 secs, life: 2399 at 13:33:55
+new task is inserted with time: 121 queue lengh: 1
+time est to get task = 2
+computer took task that lasts 121 secs, life: 2498 at 13:34:34. waiting time: 0:00:00
+new task is inserted with time: 61 queue lengh: 0
+time est to get task = 39
+computer took task that lasts 61 secs, life: 1997 at 13:34:36. waiting time: 0:00:00
+new task is inserted with time: 25 queue lengh: 1
+time est to get task = 21
+computer took task that lasts 25 secs, life: 2497 at 13:35:15. waiting time: 0:00:00
+new task is inserted with time: 55 queue lengh: 1
+time est to get task = 12
+computer took task that lasts 55 secs, life: 2139 at 13:35:36. waiting time: 0:00:00
+computer fininshed task that lasts 61 secs, life: 1997 at 13:35:37
+computer fininshed task that lasts 25 secs, life: 2497 at 13:35:40
+new task is inserted with time: 68 queue lengh: 1
+time est to get task = 6
+computer took task that lasts 68 secs, life: 2549 at 13:35:48. waiting time: 0:00:00
+new task is inserted with time: 11 queue lengh: 1
+time est to get task = 22
+computer took task that lasts 11 secs, life: 2574 at 13:35:54. waiting time: 0:00:00
+computer fininshed task that lasts 11 secs, life: 2574 at 13:36:05
+new task is inserted with time: 51 queue lengh: 1
+time est to get task = 9
+computer took task that lasts 51 secs, life: 2174 at 13:36:16. waiting time: 0:00:00
+new task is inserted with time: 102 queue lengh: 1
+time est to get task = 28
+computer took task that lasts 102 secs, life: 2622 at 13:36:25. waiting time: 0:00:00
+computer fininshed task that lasts 55 secs, life: 2139 at 13:36:31
+computer fininshed task that lasts 121 secs, life: 2498 at 13:36:35
+new task is inserted with time: 9 queue lengh: 1
+time est to get task = 8
+computer took task that lasts 9 secs, life: 2424 at 13:36:53. waiting time: 0:00:00
+computer fininshed task that lasts 68 secs, life: 2549 at 13:36:56
+new task is inserted with time: 21 queue lengh: 1
+time est to get task = 12
+computer took task that lasts 21 secs, life: 2378 at 13:37:01. waiting time: 0:00:00
+computer fininshed task that lasts 9 secs, life: 2424 at 13:37:02
+computer fininshed task that lasts 51 secs, life: 2174 at 13:37:07
+new task is inserted with time: 15 queue lengh: 1
+time est to get task = 67
+computer took task that lasts 15 secs, life: 1982 at 13:37:13. waiting time: 0:00:00
+computer fininshed task that lasts 21 secs, life: 2378 at 13:37:22
+computer fininshed task that lasts 15 secs, life: 1982 at 13:37:28
+computer fininshed task that lasts 102 secs, life: 2622 at 13:38:07
+new task is inserted with time: 57 queue lengh: 1
+time est to get task = 45
+computer took task that lasts 57 secs, life: 2440 at 13:38:20. waiting time: 0:00:00
+new task is inserted with time: 90 queue lengh: 1
+time est to get task = 28
+computer took task that lasts 90 secs, life: 2484 at 13:39:05. waiting time: 0:00:00
+computer fininshed task that lasts 57 secs, life: 2440 at 13:39:17
+new task is inserted with time: 54 queue lengh: 1
+time est to get task = 27
+computer took task that lasts 54 secs, life: 2085 at 13:39:33. waiting time: 0:00:00
+new task is inserted with time: 12 queue lengh: 1
+time est to get task = 25
+computer took task that lasts 12 secs, life: 2486 at 13:40:00. waiting time: 0:00:00
+computer fininshed task that lasts 12 secs, life: 2486 at 13:40:12
+new task is inserted with time: 6 queue lengh: 1
+time est to get task = 5
+computer took task that lasts 6 secs, life: 2543 at 13:40:25. waiting time: 0:00:00
+computer fininshed task that lasts 54 secs, life: 2085 at 13:40:27
+new task is inserted with time: 2 queue lengh: 1
+time est to get task = 26
+computer took task that lasts 2 secs, life: 2422 at 13:40:30. waiting time: 0:00:00
+computer fininshed task that lasts 6 secs, life: 2543 at 13:40:31
+computer fininshed task that lasts 2 secs, life: 2422 at 13:40:32
+computer fininshed task that lasts 90 secs, life: 2484 at 13:40:35
+new task is inserted with time: 20 queue lengh: 1
+time est to get task = 26
+computer took task that lasts 20 secs, life: 2154 at 13:40:56. waiting time: 0:00:00
+computer fininshed task that lasts 20 secs, life: 2154 at 13:41:16
+new task is inserted with time: 8 queue lengh: 1
+time est to get task = 95
+computer took task that lasts 8 secs, life: 2370 at 13:41:22. waiting time: 0:00:00
+computer fininshed task that lasts 8 secs, life: 2370 at 13:41:30
+new task is inserted with time: 48 queue lengh: 1
+time est to get task = 4
+computer took task that lasts 48 secs, life: 1934 at 13:42:57. waiting time: 0:00:00
+new task is inserted with time: 9 queue lengh: 1
+time est to get task = 78
+computer took task that lasts 9 secs, life: 2613 at 13:43:01. waiting time: 0:00:00
+computer fininshed task that lasts 9 secs, life: 2613 at 13:43:10
+computer fininshed task that lasts 48 secs, life: 1934 at 13:43:45
+new task is inserted with time: 25 queue lengh: 0
+time est to get task = 86
+computer took task that lasts 25 secs, life: 2415 at 13:44:19. waiting time: 0:00:00
+computer fininshed task that lasts 25 secs, life: 2415 at 13:44:44
+new task is inserted with time: 27 queue lengh: 1
+time est to get task = 9
+computer took task that lasts 27 secs, life: 2459 at 13:45:45. waiting time: 0:00:00
+new task is inserted with time: 3 queue lengh: 0
+time est to get task = 14
+computer took task that lasts 3 secs, life: 2082 at 13:45:54. waiting time: 0:00:00
+computer fininshed task that lasts 3 secs, life: 2082 at 13:45:57
+new task is inserted with time: 7 queue lengh: 1
+time est to get task = 7
+computer took task that lasts 7 secs, life: 2536 at 13:46:08. waiting time: 0:00:00
+computer fininshed task that lasts 27 secs, life: 2459 at 13:46:12
+new task is inserted with time: 2 queue lengh: 1
+time est to get task = 57
+computer took task that lasts 2 secs, life: 2420 at 13:46:15. waiting time: 0:00:00
+computer fininshed task that lasts 7 secs, life: 2536 at 13:46:16
+computer fininshed task that lasts 2 secs, life: 2420 at 13:46:17
+new task is inserted with time: 83 queue lengh: 1
+time est to get task = 11
+computer took task that lasts 83 secs, life: 2401 at 13:47:12. waiting time: 0:00:00
+new task is inserted with time: 87 queue lengh: 1
+time est to get task = 11
+computer took task that lasts 87 secs, life: 2067 at 13:47:23. waiting time: 0:00:00
+new task is inserted with time: 60 queue lengh: 1
+time est to get task = 1
+computer took task that lasts 60 secs, life: 2310 at 13:47:35. waiting time: 0:00:00
+new task is inserted with time: 61 queue lengh: 1
+time est to get task = 87
+computer took task that lasts 61 secs, life: 2552 at 13:47:36. waiting time: 0:00:00
+computer fininshed task that lasts 60 secs, life: 2310 at 13:48:35
+computer fininshed task that lasts 83 secs, life: 2401 at 13:48:36
+computer fininshed task that lasts 61 secs, life: 2552 at 13:48:37
+computer fininshed task that lasts 87 secs, life: 2067 at 13:48:51
+new task is inserted with time: 29 queue lengh: 1
+time est to get task = 38
+computer took task that lasts 29 secs, life: 1905 at 13:49:03. waiting time: 0:00:00
+computer fininshed task that lasts 29 secs, life: 1905 at 13:49:32
+new task is inserted with time: 30 queue lengh: 0
+computer took task that lasts 30 secs, life: 2385 at 13:49:41. waiting time: 0:00:00
+time est to get task = 32
+computer fininshed task that lasts 30 secs, life: 2385 at 13:50:11
+new task is inserted with time: 88 queue lengh: 1
+time est to get task = 9
+computer took task that lasts 88 secs, life: 1994 at 13:50:13. waiting time: 0:00:00
+new task is inserted with time: 8 queue lengh: 1
+time est to get task = 12
+computer took task that lasts 8 secs, life: 2451 at 13:50:22. waiting time: 0:00:00
+computer fininshed task that lasts 8 secs, life: 2451 at 13:50:30
+new task is inserted with time: 2 queue lengh: 1
+time est to get task = 77
+computer took task that lasts 2 secs, life: 2534 at 13:50:34. waiting time: 0:00:00
+computer fininshed task that lasts 2 secs, life: 2534 at 13:50:36
+computer fininshed task that lasts 88 secs, life: 1994 at 13:51:41
+new task is inserted with time: 12 queue lengh: 0
+time est to get task = 9
+computer took task that lasts 12 secs, life: 2408 at 13:51:51. waiting time: 0:00:00
+new task is inserted with time: 3 queue lengh: 1
+time est to get task = 19
+computer took task that lasts 3 secs, life: 2307 at 13:52:00. waiting time: 0:00:00
+computer fininshed task that lasts 12 secs, life: 2408 at 13:52:03
+computer fininshed task that lasts 3 secs, life: 2307 at 13:52:03
+new task is inserted with time: 18 queue lengh: 1
+time est to get task = 9
+computer took task that lasts 18 secs, life: 2383 at 13:52:19. waiting time: 0:00:00
+new task is inserted with time: 17 queue lengh: 1
+time est to get task = 15
+computer took task that lasts 17 secs, life: 2535 at 13:52:28. waiting time: 0:00:00
+computer fininshed task that lasts 18 secs, life: 2383 at 13:52:37
+new task is inserted with time: 101 queue lengh: 1
+time est to get task = 37
+computer took task that lasts 101 secs, life: 1966 at 13:52:43. waiting time: 0:00:00
+computer fininshed task that lasts 17 secs, life: 2535 at 13:52:45
+new task is inserted with time: 7 queue lengh: 1
+time est to get task = 86
+computer took task that lasts 7 secs, life: 1898 at 13:53:20. waiting time: 0:00:00
+computer fininshed task that lasts 7 secs, life: 1898 at 13:53:27
+computer fininshed task that lasts 101 secs, life: 1966 at 13:54:24
+new task is inserted with time: 15 queue lengh: 0
+time est to get task = 8
+computer took task that lasts 15 secs, life: 2370 at 13:54:46. waiting time: 0:00:00
+new task is inserted with time: 3 queue lengh: 1
+time est to get task = 27
+computer took task that lasts 3 secs, life: 2448 at 13:54:54. waiting time: 0:00:00
+computer fininshed task that lasts 3 secs, life: 2448 at 13:54:57
+computer fininshed task that lasts 15 secs, life: 2370 at 13:55:01
+new task is inserted with time: 17 queue lengh: 1
+time est to get task = 12
+computer took task that lasts 17 secs, life: 2517 at 13:55:21. waiting time: 0:00:00
+new task is inserted with time: 24 queue lengh: 1
+time est to get task = 9
+computer took task that lasts 24 secs, life: 1970 at 13:55:33. waiting time: 0:00:00
+computer fininshed task that lasts 17 secs, life: 2517 at 13:55:38
+new task is inserted with time: 5 queue lengh: 1
+time est to get task = 15
+computer took task that lasts 5 secs, life: 2403 at 13:55:42. waiting time: 0:00:00
+computer fininshed task that lasts 5 secs, life: 2403 at 13:55:47
+new task is inserted with time: 24 queue lengh: 1
+time est to get task = 66
+computer took task that lasts 24 secs, life: 2283 at 13:55:57. waiting time: 0:00:00
+computer fininshed task that lasts 24 secs, life: 1970 at 13:55:57
+computer fininshed task that lasts 24 secs, life: 2283 at 13:56:21
+new task is inserted with time: 71 queue lengh: 1
+time est to get task = 27
+computer took task that lasts 71 secs, life: 2312 at 13:57:03. waiting time: 0:00:00
+new task is inserted with time: 68 queue lengh: 1
+time est to get task = 68
+computer took task that lasts 68 secs, life: 2467 at 13:57:30. waiting time: 0:00:00
+computer fininshed task that lasts 71 secs, life: 2312 at 13:58:14
+computer fininshed task that lasts 68 secs, life: 2467 at 13:58:38
+new task is inserted with time: 17 queue lengh: 1
+time est to get task = 6
+computer took task that lasts 17 secs, life: 1881 at 13:58:38. waiting time: 0:00:00
+new task is inserted with time: 49 queue lengh: 1
+time est to get task = 74
+computer took task that lasts 49 secs, life: 1917 at 13:58:44. waiting time: 0:00:00
+computer fininshed task that lasts 17 secs, life: 1881 at 13:58:55
+computer fininshed task that lasts 49 secs, life: 1917 at 13:59:33
+new task is inserted with time: 18 queue lengh: 1
+time est to get task = 48
+computer took task that lasts 18 secs, life: 2430 at 13:59:58. waiting time: 0:00:00
+computer fininshed task that lasts 18 secs, life: 2430 at 14:00:16
+new task is inserted with time: 25 queue lengh: 1
+time est to get task = 24
+computer took task that lasts 25 secs, life: 2345 at 14:00:46. waiting time: 0:00:00
+new task is inserted with time: 80 queue lengh: 1
+time est to get task = 49
+computer took task that lasts 80 secs, life: 2437 at 14:01:10. waiting time: 0:00:00
+computer fininshed task that lasts 25 secs, life: 2345 at 14:01:11
+new task is inserted with time: 38 queue lengh: 1
+time est to get task = 13
+computer took task that lasts 38 secs, life: 2365 at 14:01:59. waiting time: 0:00:00
+new task is inserted with time: 46 queue lengh: 1
+time est to get task = 66
+computer took task that lasts 46 secs, life: 1924 at 14:02:12. waiting time: 0:00:00
+computer fininshed task that lasts 80 secs, life: 2437 at 14:02:30
+computer fininshed task that lasts 38 secs, life: 2365 at 14:02:37
+computer fininshed task that lasts 46 secs, life: 1924 at 14:02:58
+new task is inserted with time: 28 queue lengh: 1
+time est to get task = 9
+computer took task that lasts 28 secs, life: 2255 at 14:03:18. waiting time: 0:00:00
+new task is inserted with time: 7 queue lengh: 1
+time est to get task = 5
+computer took task that lasts 7 secs, life: 2305 at 14:03:27. waiting time: 0:00:00
+new task is inserted with time: 41 queue lengh: 1
+time est to get task = 47
+computer took task that lasts 41 secs, life: 2426 at 14:03:32. waiting time: 0:00:00
+computer fininshed task that lasts 7 secs, life: 2305 at 14:03:34
+computer fininshed task that lasts 28 secs, life: 2255 at 14:03:46
+computer fininshed task that lasts 41 secs, life: 2426 at 14:04:13
+new task is inserted with time: 12 queue lengh: 1
+time est to get task = 1
+computer took task that lasts 12 secs, life: 1869 at 14:04:19. waiting time: 0:00:00
+new task is inserted with time: 18 queue lengh: 1
+time est to get task = 34
+computer took task that lasts 18 secs, life: 1899 at 14:04:20. waiting time: 0:00:00
+computer fininshed task that lasts 12 secs, life: 1869 at 14:04:31
+computer fininshed task that lasts 18 secs, life: 1899 at 14:04:38
+new task is inserted with time: 42 queue lengh: 1
+time est to get task = 147
+computer took task that lasts 42 secs, life: 2388 at 14:04:54. waiting time: 0:00:00
+computer fininshed task that lasts 42 secs, life: 2388 at 14:05:36
+new task is inserted with time: 23 queue lengh: 1
+time est to get task = 14
+computer took task that lasts 23 secs, life: 2322 at 14:07:21. waiting time: 0:00:00
+new task is inserted with time: 13 queue lengh: 1
+time est to get task = 52
+computer took task that lasts 13 secs, life: 2424 at 14:07:35. waiting time: 0:00:00
+computer fininshed task that lasts 23 secs, life: 2322 at 14:07:44
+computer fininshed task that lasts 13 secs, life: 2424 at 14:07:48
+new task is inserted with time: 35 queue lengh: 1
+time est to get task = 14
+computer took task that lasts 35 secs, life: 2330 at 14:08:27. waiting time: 0:00:00
+new task is inserted with time: 70 queue lengh: 1
+time est to get task = 5
+computer took task that lasts 70 secs, life: 1854 at 14:08:41. waiting time: 0:00:00
+new task is inserted with time: 43 queue lengh: 0
+time est to get task = 90
+computer took task that lasts 43 secs, life: 2262 at 14:08:46. waiting time: 0:00:00
+computer fininshed task that lasts 35 secs, life: 2330 at 14:09:02
+computer fininshed task that lasts 43 secs, life: 2262 at 14:09:29
+computer fininshed task that lasts 70 secs, life: 1854 at 14:09:51
+new task is inserted with time: 46 queue lengh: 1
+time est to get task = 57
+computer took task that lasts 46 secs, life: 2209 at 14:10:16. waiting time: 0:00:00
+computer fininshed task that lasts 46 secs, life: 2209 at 14:11:02
+new task is inserted with time: 12 queue lengh: 1
+time est to get task = 25
+computer took task that lasts 12 secs, life: 2414 at 14:11:13. waiting time: 0:00:00
+computer fininshed task that lasts 12 secs, life: 2414 at 14:11:25
+new task is inserted with time: 66 queue lengh: 1
+time est to get task = 41
+computer took task that lasts 66 secs, life: 1803 at 14:11:38. waiting time: 0:00:00
+new task is inserted with time: 32 queue lengh: 1
+time est to get task = 32
+computer took task that lasts 32 secs, life: 1867 at 14:12:19. waiting time: 0:00:00
+computer fininshed task that lasts 66 secs, life: 1803 at 14:12:44
+computer fininshed task that lasts 32 secs, life: 1867 at 14:12:51
+new task is inserted with time: 11 queue lengh: 1
+time est to get task = 28
+computer took task that lasts 11 secs, life: 2377 at 14:12:51. waiting time: 0:00:00
+computer fininshed task that lasts 11 secs, life: 2377 at 14:13:02
+new task is inserted with time: 58 queue lengh: 1
+time est to get task = 83
+computer took task that lasts 58 secs, life: 2264 at 14:13:19. waiting time: 0:00:00
+computer fininshed task that lasts 58 secs, life: 2264 at 14:14:17
+new task is inserted with time: 37 queue lengh: 1
+time est to get task = 6
+computer took task that lasts 37 secs, life: 2387 at 14:14:42. waiting time: 0:00:00
+new task is inserted with time: 20 queue lengh: 1
+time est to get task = 101
+computer took task that lasts 20 secs, life: 2310 at 14:14:48. waiting time: 0:00:00
+computer fininshed task that lasts 20 secs, life: 2310 at 14:15:08
+computer fininshed task that lasts 37 secs, life: 2387 at 14:15:19
+new task is inserted with time: 37 queue lengh: 1
+time est to get task = 1
+computer took task that lasts 37 secs, life: 2225 at 14:16:29. waiting time: 0:00:00
+new task is inserted with time: 22 queue lengh: 1
+time est to get task = 8
+computer took task that lasts 22 secs, life: 1832 at 14:16:30. waiting time: 0:00:00
+new task is inserted with time: 40 queue lengh: 1
+time est to get task = 26
+computer took task that lasts 40 secs, life: 2169 at 14:16:38. waiting time: 0:00:00
+computer fininshed task that lasts 22 secs, life: 1832 at 14:16:52
+new task is inserted with time: 24 queue lengh: 1
+time est to get task = 8
+computer took task that lasts 24 secs, life: 2390 at 14:17:04. waiting time: 0:00:00
+computer fininshed task that lasts 37 secs, life: 2225 at 14:17:06
+new task is inserted with time: 15 queue lengh: 1
+time est to get task = 38
+computer took task that lasts 15 secs, life: 1788 at 14:17:12. waiting time: 0:00:00
+computer fininshed task that lasts 40 secs, life: 2169 at 14:17:18
+computer fininshed task that lasts 15 secs, life: 1788 at 14:17:27
+computer fininshed task that lasts 24 secs, life: 2390 at 14:17:28
+new task is inserted with time: 6 queue lengh: 1
+time est to get task = 39
+computer took task that lasts 6 secs, life: 1861 at 14:17:50. waiting time: 0:00:00
+computer fininshed task that lasts 6 secs, life: 1861 at 14:17:56
+new task is inserted with time: 18 queue lengh: 1
+time est to get task = 104
+computer took task that lasts 18 secs, life: 2359 at 14:18:29. waiting time: 0:00:00
+computer fininshed task that lasts 18 secs, life: 2359 at 14:18:47
+new task is inserted with time: 2 queue lengh: 1
+time est to get task = 7
+computer took task that lasts 2 secs, life: 2262 at 14:20:13. waiting time: 0:00:00
+computer fininshed task that lasts 2 secs, life: 2262 at 14:20:15
+new task is inserted with time: 44 queue lengh: 1
+time est to get task = 4
+computer took task that lasts 44 secs, life: 2266 at 14:20:20. waiting time: 0:00:00
+new task is inserted with time: 8 queue lengh: 1
+time est to get task = 126
+computer took task that lasts 8 secs, life: 2379 at 14:20:24. waiting time: 0:00:00
+computer fininshed task that lasts 8 secs, life: 2379 at 14:20:32
+computer fininshed task that lasts 44 secs, life: 2266 at 14:21:04
+new task is inserted with time: 176 queue lengh: 1
+time est to get task = 2
+computer took task that lasts 176 secs, life: 1656 at 14:22:30. waiting time: 0:00:00
+new task is inserted with time: 63 queue lengh: 1
+time est to get task = 18
+computer took task that lasts 63 secs, life: 2162 at 14:22:32. waiting time: 0:00:00
+new task is inserted with time: 66 queue lengh: 1
+time est to get task = 46
+computer took task that lasts 66 secs, life: 2103 at 14:22:50. waiting time: 0:00:00
+computer fininshed task that lasts 63 secs, life: 2162 at 14:23:35
+new task is inserted with time: 74 queue lengh: 1
+computer took task that lasts 74 secs, life: 1714 at 14:23:36. waiting time: 0:00:00
+time est to get task = 22
+computer fininshed task that lasts 66 secs, life: 2103 at 14:23:56
+new task is inserted with time: 34 queue lengh: 1
+time est to get task = 222
+computer took task that lasts 34 secs, life: 2356 at 14:23:58. waiting time: 0:00:00
+computer fininshed task that lasts 34 secs, life: 2356 at 14:24:32
+computer fininshed task that lasts 74 secs, life: 1714 at 14:24:50
+computer fininshed task that lasts 176 secs, life: 1656 at 14:25:26
+new task is inserted with time: 25 queue lengh: 1
+time est to get task = 9
+computer took task that lasts 25 secs, life: 1836 at 14:27:40. waiting time: 0:00:00
+new task is inserted with time: 36 queue lengh: 1
+time est to get task = 2
+computer took task that lasts 36 secs, life: 2323 at 14:27:49. waiting time: 0:00:00
+new task is inserted with time: 35 queue lengh: 1
+time est to get task = 33
+computer took task that lasts 35 secs, life: 2227 at 14:27:51. waiting time: 0:00:00
+computer fininshed task that lasts 25 secs, life: 1836 at 14:28:05
+new task is inserted with time: 3 queue lengh: 1
+time est to get task = 12
+computer took task that lasts 3 secs, life: 2376 at 14:28:24. waiting time: 0:00:00
+computer fininshed task that lasts 36 secs, life: 2323 at 14:28:25
+computer fininshed task that lasts 35 secs, life: 2227 at 14:28:26
+computer fininshed task that lasts 3 secs, life: 2376 at 14:28:27
+new task is inserted with time: 2 queue lengh: 1
+time est to get task = 8
+computer took task that lasts 2 secs, life: 2264 at 14:28:36. waiting time: 0:00:00
+computer fininshed task that lasts 2 secs, life: 2264 at 14:28:38
+new task is inserted with time: 45 queue lengh: 1
+time est to get task = 12
+computer took task that lasts 45 secs, life: 2117 at 14:28:44. waiting time: 0:00:00
+new task is inserted with time: 11 queue lengh: 1
+time est to get task = 57
+computer took task that lasts 11 secs, life: 2092 at 14:28:56. waiting time: 0:00:00
+computer fininshed task that lasts 11 secs, life: 2092 at 14:29:07
+computer fininshed task that lasts 45 secs, life: 2117 at 14:29:29
+new task is inserted with time: 116 queue lengh: 1
+time est to get task = 4
+computer took task that lasts 116 secs, life: 2240 at 14:29:53. waiting time: 0:00:00
+new task is inserted with time: 5 queue lengh: 0
+time est to get task = 11
+computer took task that lasts 5 secs, life: 1709 at 14:29:57. waiting time: 0:00:00
+computer fininshed task that lasts 5 secs, life: 1709 at 14:30:02
+new task is inserted with time: 145 queue lengh: 1
+time est to get task = 71
+computer took task that lasts 145 secs, life: 1511 at 14:30:08. waiting time: 0:00:00
+new task is inserted with time: 75 queue lengh: 1
+time est to get task = 42
+computer took task that lasts 75 secs, life: 1761 at 14:31:19. waiting time: 0:00:00
+computer fininshed task that lasts 116 secs, life: 2240 at 14:31:49
+new task is inserted with time: 1 queue lengh: 1
+time est to get task = 31
+computer took task that lasts 1 secs, life: 2322 at 14:32:01. waiting time: 0:00:00
+computer fininshed task that lasts 1 secs, life: 2322 at 14:32:02
+new task is inserted with time: 9 queue lengh: 1
+time est to get task = 5
+computer took task that lasts 9 secs, life: 2218 at 14:32:32. waiting time: 0:00:00
+computer fininshed task that lasts 145 secs, life: 1511 at 14:32:33
+computer fininshed task that lasts 75 secs, life: 1761 at 14:32:34
+new task is inserted with time: 4 queue lengh: 0
+time est to get task = 105
+computer took task that lasts 4 secs, life: 2372 at 14:32:37. waiting time: 0:00:00
+computer fininshed task that lasts 9 secs, life: 2218 at 14:32:41
+computer fininshed task that lasts 4 secs, life: 2372 at 14:32:41
+new task is inserted with time: 33 queue lengh: 1
+time est to get task = 106
+computer took task that lasts 33 secs, life: 2231 at 14:34:22. waiting time: 0:00:00
+computer fininshed task that lasts 33 secs, life: 2231 at 14:34:55
+new task is inserted with time: 19 queue lengh: 1
+time est to get task = 15
+computer took task that lasts 19 secs, life: 2073 at 14:36:08. waiting time: 0:00:00
+new task is inserted with time: 10 queue lengh: 1
+time est to get task = 50
+computer took task that lasts 10 secs, life: 2107 at 14:36:23. waiting time: 0:00:00
+computer fininshed task that lasts 19 secs, life: 2073 at 14:36:27
+computer fininshed task that lasts 10 secs, life: 2107 at 14:36:33
+new task is inserted with time: 103 queue lengh: 1
+time est to get task = 39
+computer took task that lasts 103 secs, life: 1606 at 14:37:13. waiting time: 0:00:00
+new task is inserted with time: 21 queue lengh: 1
+time est to get task = 25
+computer took task that lasts 21 secs, life: 2219 at 14:37:52. waiting time: 0:00:00
+computer fininshed task that lasts 21 secs, life: 2219 at 14:38:13
+new task is inserted with time: 75 queue lengh: 1
+time est to get task = 41
+computer took task that lasts 75 secs, life: 2247 at 14:38:17. waiting time: 0:00:00
+computer fininshed task that lasts 103 secs, life: 1606 at 14:38:56
+new task is inserted with time: 22 queue lengh: 1
+time est to get task = 40
+computer took task that lasts 22 secs, life: 1489 at 14:38:58. waiting time: 0:00:00
+computer fininshed task that lasts 22 secs, life: 1489 at 14:39:20
+computer fininshed task that lasts 75 secs, life: 2247 at 14:39:32
+new task is inserted with time: 49 queue lengh: 1
+time est to get task = 29
+computer took task that lasts 49 secs, life: 1712 at 14:39:38. waiting time: 0:00:00
+new task is inserted with time: 99 queue lengh: 1
+time est to get task = 52
+computer took task that lasts 99 secs, life: 2119 at 14:40:07. waiting time: 0:00:00
+computer fininshed task that lasts 49 secs, life: 1712 at 14:40:27
+new task is inserted with time: 134 queue lengh: 1
+time est to get task = 7
+computer took task that lasts 134 secs, life: 2238 at 14:40:59. waiting time: 0:00:00
+new task is inserted with time: 20 queue lengh: 0
+computer took task that lasts 20 secs, life: 2211 at 14:41:06. waiting time: 0:00:00
+time est to get task = 20
+computer fininshed task that lasts 20 secs, life: 2211 at 14:41:26
+new task is inserted with time: 22 queue lengh: 1
+time est to get task = 25
+computer took task that lasts 22 secs, life: 2051 at 14:41:26. waiting time: 0:00:00
+computer fininshed task that lasts 99 secs, life: 2119 at 14:41:46
+computer fininshed task that lasts 22 secs, life: 2051 at 14:41:48
+new task is inserted with time: 6 queue lengh: 1
+time est to get task = 3
+computer took task that lasts 6 secs, life: 2101 at 14:41:51. waiting time: 0:00:00
+new task is inserted with time: 21 queue lengh: 1
+time est to get task = 12
+computer took task that lasts 21 secs, life: 2198 at 14:41:54. waiting time: 0:00:00
+computer fininshed task that lasts 6 secs, life: 2101 at 14:41:57
+new task is inserted with time: 46 queue lengh: 1
+time est to get task = 77
+computer took task that lasts 46 secs, life: 1560 at 14:42:06. waiting time: 0:00:00
+computer fininshed task that lasts 21 secs, life: 2198 at 14:42:15
+computer fininshed task that lasts 46 secs, life: 1560 at 14:42:52
+computer fininshed task that lasts 134 secs, life: 2238 at 14:43:13
+new task is inserted with time: 47 queue lengh: 1
+time est to get task = 8
+computer took task that lasts 47 secs, life: 1442 at 14:43:23. waiting time: 0:00:00
+new task is inserted with time: 10 queue lengh: 1
+time est to get task = 33
+computer took task that lasts 10 secs, life: 2237 at 14:43:31. waiting time: 0:00:00
+computer fininshed task that lasts 10 secs, life: 2237 at 14:43:41
+new task is inserted with time: 156 queue lengh: 1
+time est to get task = 27
+computer took task that lasts 156 secs, life: 1556 at 14:44:04. waiting time: 0:00:00
+computer fininshed task that lasts 47 secs, life: 1442 at 14:44:10
+new task is inserted with time: 7 queue lengh: 1
+time est to get task = 121
+computer took task that lasts 7 secs, life: 2204 at 14:44:31. waiting time: 0:00:00
+computer fininshed task that lasts 7 secs, life: 2204 at 14:44:38
+new task is inserted with time: 30 queue lengh: 1
+time est to get task = 19
+computer took task that lasts 30 secs, life: 2089 at 14:46:32. waiting time: 0:00:00
+computer fininshed task that lasts 156 secs, life: 1556 at 14:46:40
+new task is inserted with time: 4 queue lengh: 1
+time est to get task = 4
+computer took task that lasts 4 secs, life: 2047 at 14:46:51. waiting time: 0:00:00
+new task is inserted with time: 69 queue lengh: 1
+time est to get task = 15
+computer took task that lasts 69 secs, life: 2032 at 14:46:55. waiting time: 0:00:00
+computer fininshed task that lasts 4 secs, life: 2047 at 14:46:55
+computer fininshed task that lasts 30 secs, life: 2089 at 14:47:02
+new task is inserted with time: 22 queue lengh: 1
+time est to get task = 17
+computer took task that lasts 22 secs, life: 2176 at 14:47:10. waiting time: 0:00:00
+new task is inserted with time: 79 queue lengh: 1
+time est to get task = 6
+computer took task that lasts 79 secs, life: 1481 at 14:47:27. waiting time: 0:00:00
+computer fininshed task that lasts 22 secs, life: 2176 at 14:47:32
+new task is inserted with time: 44 queue lengh: 1
+time est to get task = 69
+computer took task that lasts 44 secs, life: 2194 at 14:47:33. waiting time: 0:00:00
+computer fininshed task that lasts 69 secs, life: 2032 at 14:48:04
+computer fininshed task that lasts 44 secs, life: 2194 at 14:48:17
+new task is inserted with time: 59 queue lengh: 1
+time est to get task = 13
+computer took task that lasts 59 secs, life: 2178 at 14:48:42. waiting time: 0:00:00
+computer fininshed task that lasts 79 secs, life: 1481 at 14:48:46
+new task is inserted with time: 51 queue lengh: 1
+time est to get task = 25
+computer took task that lasts 51 secs, life: 1391 at 14:48:55. waiting time: 0:00:00
+new task is inserted with time: 11 queue lengh: 1
+time est to get task = 44
+computer took task that lasts 11 secs, life: 2193 at 14:49:20. waiting time: 0:00:00
+computer fininshed task that lasts 11 secs, life: 2193 at 14:49:31
+computer fininshed task that lasts 59 secs, life: 2178 at 14:49:41
+computer fininshed task that lasts 51 secs, life: 1391 at 14:49:46
+new task is inserted with time: 27 queue lengh: 1
+time est to get task = 42
+computer took task that lasts 27 secs, life: 1529 at 14:50:04. waiting time: 0:00:00
+computer fininshed task that lasts 27 secs, life: 1529 at 14:50:31
+new task is inserted with time: 13 queue lengh: 1
+time est to get task = 50
+computer took task that lasts 13 secs, life: 2034 at 14:50:46. waiting time: 0:00:00
+computer fininshed task that lasts 13 secs, life: 2034 at 14:50:59
+new task is inserted with time: 34 queue lengh: 1
+time est to get task = 14
+computer took task that lasts 34 secs, life: 2055 at 14:51:36. waiting time: 0:00:00
+new task is inserted with time: 21 queue lengh: 1
+time est to get task = 29
+computer took task that lasts 21 secs, life: 2155 at 14:51:50. waiting time: 0:00:00
+computer fininshed task that lasts 34 secs, life: 2055 at 14:52:10
+computer fininshed task that lasts 21 secs, life: 2155 at 14:52:11
+new task is inserted with time: 70 queue lengh: 1
+time est to get task = 145
+computer took task that lasts 70 secs, life: 1962 at 14:52:19. waiting time: 0:00:00
+computer fininshed task that lasts 70 secs, life: 1962 at 14:53:29
+new task is inserted with time: 6 queue lengh: 0
+time est to get task = 2
+computer took task that lasts 6 secs, life: 2188 at 14:54:44. waiting time: 0:00:00
+new task is inserted with time: 72 queue lengh: 1
+time est to get task = 5
+computer took task that lasts 72 secs, life: 1409 at 14:54:46. waiting time: 0:00:00
+computer fininshed task that lasts 6 secs, life: 2188 at 14:54:50
+new task is inserted with time: 73 queue lengh: 1
+time est to get task = 58
+computer took task that lasts 73 secs, life: 2120 at 14:54:51. waiting time: 0:00:00
+new task is inserted with time: 2 queue lengh: 1
+time est to get task = 37
+computer took task that lasts 2 secs, life: 2176 at 14:55:49. waiting time: 0:00:00
+computer fininshed task that lasts 2 secs, life: 2176 at 14:55:51
+computer fininshed task that lasts 72 secs, life: 1409 at 14:55:58
+computer fininshed task that lasts 73 secs, life: 2120 at 14:56:04
+new task is inserted with time: 9 queue lengh: 1
+time est to get task = 71
+computer took task that lasts 9 secs, life: 1382 at 14:56:26. waiting time: 0:00:00
+computer fininshed task that lasts 9 secs, life: 1382 at 14:56:35
+new task is inserted with time: 39 queue lengh: 1
+time est to get task = 27
+computer took task that lasts 39 secs, life: 1490 at 14:57:37. waiting time: 0:00:00
+new task is inserted with time: 11 queue lengh: 1
+time est to get task = 11
+computer took task that lasts 11 secs, life: 2023 at 14:58:04. waiting time: 0:00:00
+computer fininshed task that lasts 11 secs, life: 2023 at 14:58:15
+new task is inserted with time: 15 queue lengh: 1
+time est to get task = 31
+computer took task that lasts 15 secs, life: 2040 at 14:58:15. waiting time: 0:00:00
+computer fininshed task that lasts 39 secs, life: 1490 at 14:58:16
+computer fininshed task that lasts 15 secs, life: 2040 at 14:58:30
+new task is inserted with time: 38 queue lengh: 1
+time est to get task = 55
+computer took task that lasts 38 secs, life: 2117 at 14:58:46. waiting time: 0:00:00
+computer fininshed task that lasts 38 secs, life: 2117 at 14:59:24
+new task is inserted with time: 1 queue lengh: 1
+time est to get task = 13
+computer took task that lasts 1 secs, life: 1961 at 14:59:41. waiting time: 0:00:00
+computer fininshed task that lasts 1 secs, life: 1961 at 14:59:42
+new task is inserted with time: 38 queue lengh: 1
+time est to get task = 31
+computer took task that lasts 38 secs, life: 2150 at 14:59:54. waiting time: 0:00:00
+new task is inserted with time: 230 queue lengh: 1
+time est to get task = 20
+computer took task that lasts 230 secs, life: 1946 at 15:00:25. waiting time: 0:00:00
+computer fininshed task that lasts 38 secs, life: 2150 at 15:00:32
+new task is inserted with time: 101 queue lengh: 1
+time est to get task = 86
+computer took task that lasts 101 secs, life: 1308 at 15:00:45. waiting time: 0:00:00
+new task is inserted with time: 1 queue lengh: 1
+time est to get task = 29
+computer took task that lasts 1 secs, life: 2119 at 15:02:11. waiting time: 0:00:00
+computer fininshed task that lasts 1 secs, life: 2119 at 15:02:12
+computer fininshed task that lasts 101 secs, life: 1308 at 15:02:26
+new task is inserted with time: 33 queue lengh: 1
+time est to get task = 134
+computer took task that lasts 33 secs, life: 1349 at 15:02:40. waiting time: 0:00:00
+computer fininshed task that lasts 33 secs, life: 1349 at 15:03:13
+computer fininshed task that lasts 230 secs, life: 1946 at 15:04:15
+new task is inserted with time: 29 queue lengh: 1
+time est to get task = 37
+computer took task that lasts 29 secs, life: 1994 at 15:04:54. waiting time: 0:00:00
+computer fininshed task that lasts 29 secs, life: 1994 at 15:05:23
+new task is inserted with time: 4 queue lengh: 1
+time est to get task = 22
+computer took task that lasts 4 secs, life: 1486 at 15:05:31. waiting time: 0:00:00
+computer fininshed task that lasts 4 secs, life: 1486 at 15:05:35
+new task is inserted with time: 33 queue lengh: 1
+time est to get task = 25
+computer took task that lasts 33 secs, life: 2007 at 15:05:53. waiting time: 0:00:00
+new task is inserted with time: 33 queue lengh: 1
+time est to get task = 31
+computer took task that lasts 33 secs, life: 2084 at 15:06:18. waiting time: 0:00:00
+computer fininshed task that lasts 33 secs, life: 2007 at 15:06:26
+new task is inserted with time: 9 queue lengh: 1
+time est to get task = 7
+computer took task that lasts 9 secs, life: 1952 at 15:06:49. waiting time: 0:00:00
+computer fininshed task that lasts 33 secs, life: 2084 at 15:06:51
+new task is inserted with time: 44 queue lengh: 1
+time est to get task = 83
+computer took task that lasts 44 secs, life: 2106 at 15:06:56. waiting time: 0:00:00
+computer fininshed task that lasts 9 secs, life: 1952 at 15:06:58
+computer fininshed task that lasts 44 secs, life: 2106 at 15:07:40
+new task is inserted with time: 7 queue lengh: 1
+time est to get task = 7
+computer took task that lasts 7 secs, life: 2112 at 15:08:19. waiting time: 0:00:00
+new task is inserted with time: 17 queue lengh: 1
+time est to get task = 2
+computer fininshed task that lasts 7 secs, life: 2112 at 15:08:26
+computer took task that lasts 17 secs, life: 1291 at 15:08:26. waiting time: 0:00:00
+new task is inserted with time: 88 queue lengh: 1
+time est to get task = 27
+computer took task that lasts 88 secs, life: 1261 at 15:08:28. waiting time: 0:00:00
+computer fininshed task that lasts 17 secs, life: 1291 at 15:08:43
+new task is inserted with time: 55 queue lengh: 1
+time est to get task = 8
+computer took task that lasts 55 secs, life: 1891 at 15:08:55. waiting time: 0:00:00
+new task is inserted with time: 165 queue lengh: 1
+time est to get task = 16
+computer took task that lasts 165 secs, life: 1829 at 15:09:03. waiting time: 0:00:00
+new task is inserted with time: 19 queue lengh: 1
+time est to get task = 69
+computer took task that lasts 19 secs, life: 1467 at 15:09:19. waiting time: 0:00:00
+computer fininshed task that lasts 19 secs, life: 1467 at 15:09:38
+computer fininshed task that lasts 55 secs, life: 1891 at 15:09:50
+computer fininshed task that lasts 88 secs, life: 1261 at 15:09:56
+new task is inserted with time: 11 queue lengh: 1
+time est to get task = 50
+computer took task that lasts 11 secs, life: 1996 at 15:10:28. waiting time: 0:00:00
+computer fininshed task that lasts 11 secs, life: 1996 at 15:10:39
+new task is inserted with time: 45 queue lengh: 1
+time est to get task = 3
+computer took task that lasts 45 secs, life: 2039 at 15:11:18. waiting time: 0:00:00
+new task is inserted with time: 30 queue lengh: 1
+time est to get task = 29
+computer took task that lasts 30 secs, life: 1922 at 15:11:21. waiting time: 0:00:00
+computer fininshed task that lasts 165 secs, life: 1829 at 15:11:48
+new task is inserted with time: 23 queue lengh: 1
+time est to get task = 24
+computer took task that lasts 23 secs, life: 2083 at 15:11:50. waiting time: 0:00:00
+computer fininshed task that lasts 30 secs, life: 1922 at 15:11:51
+computer fininshed task that lasts 45 secs, life: 2039 at 15:12:03
+computer fininshed task that lasts 23 secs, life: 2083 at 15:12:13
+new task is inserted with time: 26 queue lengh: 1
+time est to get task = 1
+computer took task that lasts 26 secs, life: 2086 at 15:12:14. waiting time: 0:00:00
+new task is inserted with time: 20 queue lengh: 1
+time est to get task = 1
+computer took task that lasts 20 secs, life: 1271 at 15:12:15. waiting time: 0:00:00
+new task is inserted with time: 19 queue lengh: 1
+time est to get task = 60
+computer took task that lasts 19 secs, life: 1448 at 15:12:16. waiting time: 0:00:00
+computer fininshed task that lasts 20 secs, life: 1271 at 15:12:35
+computer fininshed task that lasts 19 secs, life: 1448 at 15:12:35
+computer fininshed task that lasts 26 secs, life: 2086 at 15:12:40
+new task is inserted with time: 52 queue lengh: 1
+time est to get task = 5
+computer took task that lasts 52 secs, life: 1839 at 15:13:16. waiting time: 0:00:00
+new task is inserted with time: 56 queue lengh: 1
+time est to get task = 100
+computer took task that lasts 56 secs, life: 1205 at 15:13:21. waiting time: 0:00:00
+computer fininshed task that lasts 52 secs, life: 1839 at 15:14:08
+computer fininshed task that lasts 56 secs, life: 1205 at 15:14:17
+new task is inserted with time: 71 queue lengh: 1
+time est to get task = 3
+computer took task that lasts 71 secs, life: 1925 at 15:15:01. waiting time: 0:00:00
+new task is inserted with time: 56 queue lengh: 1
+time est to get task = 11
+computer took task that lasts 56 secs, life: 1773 at 15:15:04. waiting time: 0:00:00
+new task is inserted with time: 139 queue lengh: 1
+time est to get task = 2
+computer took task that lasts 139 secs, life: 1783 at 15:15:15. waiting time: 0:00:00
+new task is inserted with time: 44 queue lengh: 1
+time est to get task = 30
+computer took task that lasts 44 secs, life: 1995 at 15:15:17. waiting time: 0:00:00
+new task is inserted with time: 83 queue lengh: 1
+time est to get task = 25
+computer took task that lasts 83 secs, life: 2000 at 15:15:47. waiting time: 0:00:00
+computer fininshed task that lasts 56 secs, life: 1773 at 15:16:00
+computer fininshed task that lasts 44 secs, life: 1995 at 15:16:01
+computer fininshed task that lasts 71 secs, life: 1925 at 15:16:12
+new task is inserted with time: 6 queue lengh: 1
+time est to get task = 1
+computer took task that lasts 6 secs, life: 1265 at 15:16:12. waiting time: 0:00:00
+new task is inserted with time: 99 queue lengh: 1
+time est to get task = 36
+computer took task that lasts 99 secs, life: 1349 at 15:16:13. waiting time: 0:00:00
+computer fininshed task that lasts 6 secs, life: 1265 at 15:16:18
+new task is inserted with time: 2 queue lengh: 1
+time est to get task = 23
+computer took task that lasts 2 secs, life: 2084 at 15:16:49. waiting time: 0:00:00
+computer fininshed task that lasts 2 secs, life: 2084 at 15:16:51
+computer fininshed task that lasts 83 secs, life: 2000 at 15:17:10
+new task is inserted with time: 9 queue lengh: 1
+time est to get task = 5
+computer took task that lasts 9 secs, life: 1830 at 15:17:12. waiting time: 0:00:00
+new task is inserted with time: 65 queue lengh: 1
+time est to get task = 17
+computer took task that lasts 65 secs, life: 1140 at 15:17:17. waiting time: 0:00:00
+computer fininshed task that lasts 9 secs, life: 1830 at 15:17:21
+computer fininshed task that lasts 139 secs, life: 1783 at 15:17:34
+new task is inserted with time: 115 queue lengh: 1
+time est to get task = 18
+computer took task that lasts 115 secs, life: 1658 at 15:17:34. waiting time: 0:00:00
+computer fininshed task that lasts 99 secs, life: 1349 at 15:17:52
+new task is inserted with time: 17 queue lengh: 1
+time est to get task = 18
+computer took task that lasts 17 secs, life: 1978 at 15:17:52. waiting time: 0:00:00
+computer fininshed task that lasts 17 secs, life: 1978 at 15:18:09
+new task is inserted with time: 30 queue lengh: 1
+time est to get task = 32
+computer took task that lasts 30 secs, life: 1895 at 15:18:10. waiting time: 0:00:00
+computer fininshed task that lasts 65 secs, life: 1140 at 15:18:22
+computer fininshed task that lasts 30 secs, life: 1895 at 15:18:40
+new task is inserted with time: 12 queue lengh: 1
+time est to get task = 17
+computer took task that lasts 12 secs, life: 1253 at 15:18:42. waiting time: 0:00:00
+computer fininshed task that lasts 12 secs, life: 1253 at 15:18:54
+new task is inserted with time: 38 queue lengh: 1
+time est to get task = 44
+computer took task that lasts 38 secs, life: 2046 at 15:18:59. waiting time: 0:00:00
+computer fininshed task that lasts 115 secs, life: 1658 at 15:19:29
+computer fininshed task that lasts 38 secs, life: 2046 at 15:19:37
+new task is inserted with time: 56 queue lengh: 1
+time est to get task = 32
+computer took task that lasts 56 secs, life: 1944 at 15:19:43. waiting time: 0:00:00
+new task is inserted with time: 44 queue lengh: 1
+time est to get task = 48
+computer took task that lasts 44 secs, life: 1786 at 15:20:15. waiting time: 0:00:00
+computer fininshed task that lasts 56 secs, life: 1944 at 15:20:39
+computer fininshed task that lasts 44 secs, life: 1786 at 15:20:59
+new task is inserted with time: 11 queue lengh: 1
+time est to get task = 1
+computer took task that lasts 11 secs, life: 1772 at 15:21:03. waiting time: 0:00:00
+new task is inserted with time: 93 queue lengh: 1
+time est to get task = 34
+computer took task that lasts 93 secs, life: 1256 at 15:21:04. waiting time: 0:00:00
+computer fininshed task that lasts 11 secs, life: 1772 at 15:21:14
+new task is inserted with time: 10 queue lengh: 1
+time est to get task = 99
+computer took task that lasts 10 secs, life: 1968 at 15:21:38. waiting time: 0:00:00
+computer fininshed task that lasts 10 secs, life: 1968 at 15:21:48
+computer fininshed task that lasts 93 secs, life: 1256 at 15:22:37
+new task is inserted with time: 56 queue lengh: 1
+time est to get task = 16
+computer took task that lasts 56 secs, life: 1084 at 15:23:17. waiting time: 0:00:00
+new task is inserted with time: 23 queue lengh: 1
+time est to get task = 19
+computer took task that lasts 23 secs, life: 1872 at 15:23:33. waiting time: 0:00:00
+new task is inserted with time: 12 queue lengh: 1
+time est to get task = 42
+computer took task that lasts 12 secs, life: 1241 at 15:23:52. waiting time: 0:00:00
+computer fininshed task that lasts 23 secs, life: 1872 at 15:23:56
+computer fininshed task that lasts 12 secs, life: 1241 at 15:24:04
+computer fininshed task that lasts 56 secs, life: 1084 at 15:24:13
+new task is inserted with time: 44 queue lengh: 1
+time est to get task = 18
+computer took task that lasts 44 secs, life: 1614 at 15:24:34. waiting time: 0:00:00
+new task is inserted with time: 28 queue lengh: 1
+time est to get task = 35
+computer took task that lasts 28 secs, life: 2018 at 15:24:52. waiting time: 0:00:00
+computer fininshed task that lasts 44 secs, life: 1614 at 15:25:18
+computer fininshed task that lasts 28 secs, life: 2018 at 15:25:20
+new task is inserted with time: 62 queue lengh: 1
+time est to get task = 93
+computer took task that lasts 62 secs, life: 1882 at 15:25:27. waiting time: 0:00:00
+computer fininshed task that lasts 62 secs, life: 1882 at 15:26:29
+new task is inserted with time: 25 queue lengh: 1
+time est to get task = 10
+computer took task that lasts 25 secs, life: 1761 at 15:27:00. waiting time: 0:00:00
+new task is inserted with time: 65 queue lengh: 1
+time est to get task = 1
+computer took task that lasts 65 secs, life: 1707 at 15:27:10. waiting time: 0:00:00
+new task is inserted with time: 97 queue lengh: 1
+time est to get task = 54
+computer took task that lasts 97 secs, life: 1871 at 15:27:11. waiting time: 0:00:00
+computer fininshed task that lasts 25 secs, life: 1761 at 15:27:25
+new task is inserted with time: 9 queue lengh: 1
+time est to get task = 3
+computer took task that lasts 9 secs, life: 1247 at 15:28:05. waiting time: 0:00:00
+new task is inserted with time: 3 queue lengh: 1
+time est to get task = 21
+computer took task that lasts 3 secs, life: 1869 at 15:28:08. waiting time: 0:00:00
+computer fininshed task that lasts 3 secs, life: 1869 at 15:28:11
+computer fininshed task that lasts 9 secs, life: 1247 at 15:28:14
+computer fininshed task that lasts 65 secs, life: 1707 at 15:28:15
+new task is inserted with time: 52 queue lengh: 1
+time est to get task = 19
+computer took task that lasts 52 secs, life: 1189 at 15:28:29. waiting time: 0:00:00
+computer fininshed task that lasts 97 secs, life: 1871 at 15:28:48
+new task is inserted with time: 9 queue lengh: 0
+time est to get task = 36
+computer took task that lasts 9 secs, life: 1075 at 15:28:48. waiting time: 0:00:00
+computer fininshed task that lasts 9 secs, life: 1075 at 15:28:57
+computer fininshed task that lasts 52 secs, life: 1189 at 15:29:21
+new task is inserted with time: 2 queue lengh: 1
+time est to get task = 6
+computer took task that lasts 2 secs, life: 1612 at 15:29:24. waiting time: 0:00:00
+computer fininshed task that lasts 2 secs, life: 1612 at 15:29:26
+new task is inserted with time: 52 queue lengh: 1
+time est to get task = 4
+computer took task that lasts 52 secs, life: 1966 at 15:29:30. waiting time: 0:00:00
+new task is inserted with time: 28 queue lengh: 1
+time est to get task = 73
+computer took task that lasts 28 secs, life: 1854 at 15:29:34. waiting time: 0:00:00
+computer fininshed task that lasts 28 secs, life: 1854 at 15:30:02
+computer fininshed task that lasts 52 secs, life: 1966 at 15:30:22
+new task is inserted with time: 145 queue lengh: 1
+time est to get task = 15
+computer took task that lasts 145 secs, life: 1616 at 15:30:47. waiting time: 0:00:00
+new task is inserted with time: 15 queue lengh: 1
+time est to get task = 12
+computer took task that lasts 15 secs, life: 1854 at 15:31:02. waiting time: 0:00:00
+new task is inserted with time: 46 queue lengh: 1
+time est to get task = 38
+computer took task that lasts 46 secs, life: 1201 at 15:31:15. waiting time: 0:00:00
+computer fininshed task that lasts 15 secs, life: 1854 at 15:31:18
+new task is inserted with time: 1 queue lengh: 1
+time est to get task = 44
+computer took task that lasts 1 secs, life: 1706 at 15:31:53. waiting time: 0:00:00
+computer fininshed task that lasts 1 secs, life: 1706 at 15:31:54
+computer fininshed task that lasts 46 secs, life: 1201 at 15:32:01
+new task is inserted with time: 95 queue lengh: 0
+time est to get task = 3
+computer took task that lasts 95 secs, life: 1776 at 15:32:37. waiting time: 0:00:00
+new task is inserted with time: 50 queue lengh: 1
+time est to get task = 9
+computer took task that lasts 50 secs, life: 1025 at 15:32:40. waiting time: 0:00:00
+new task is inserted with time: 15 queue lengh: 1
+time est to get task = 14
+computer took task that lasts 15 secs, life: 1174 at 15:32:49. waiting time: 0:00:00
+new task is inserted with time: 1 queue lengh: 1
+time est to get task = 52
+computer took task that lasts 1 secs, life: 1611 at 15:33:03. waiting time: 0:00:00
+computer fininshed task that lasts 15 secs, life: 1174 at 15:33:04
+computer fininshed task that lasts 1 secs, life: 1611 at 15:33:04
+computer fininshed task that lasts 145 secs, life: 1616 at 15:33:13
+computer fininshed task that lasts 50 secs, life: 1025 at 15:33:30
+new task is inserted with time: 50 queue lengh: 1
+time est to get task = 23
+computer took task that lasts 50 secs, life: 1804 at 15:33:55. waiting time: 0:00:00
+computer fininshed task that lasts 95 secs, life: 1776 at 15:34:12
+new task is inserted with time: 23 queue lengh: 1
+time est to get task = 12
+computer took task that lasts 23 secs, life: 1943 at 15:34:18. waiting time: 0:00:00
+new task is inserted with time: 19 queue lengh: 1
+time est to get task = 73
+computer took task that lasts 19 secs, life: 1835 at 15:34:30. waiting time: 0:00:00
+computer fininshed task that lasts 23 secs, life: 1943 at 15:34:41
+computer fininshed task that lasts 50 secs, life: 1804 at 15:34:45
+computer fininshed task that lasts 19 secs, life: 1835 at 15:34:49
+new task is inserted with time: 132 queue lengh: 1
+time est to get task = 16
+computer took task that lasts 132 secs, life: 1574 at 15:35:43. waiting time: 0:00:00
+new task is inserted with time: 7 queue lengh: 1
+time est to get task = 9
+computer took task that lasts 7 secs, life: 1194 at 15:35:59. waiting time: 0:00:00
+computer fininshed task that lasts 7 secs, life: 1194 at 15:36:06
+new task is inserted with time: 90 queue lengh: 1
+computer took task that lasts 90 secs, life: 1084 at 15:36:08. waiting time: 0:00:00
+
+contest finished
+
+computer fininshed task that lasts 90 secs, life: 1084 at 15:37:38
+computer fininshed task that lasts 132 secs, life: 1574 at 15:37:55
+
+---------------------------- ANALYSIS ----------------------------
+
+average delay time = 0:00:00
+average queue length = 1.0
